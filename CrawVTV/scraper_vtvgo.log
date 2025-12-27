@@ -1,0 +1,6 @@
+2025-10-06 17:26:52,851 - INFO - Bắt đầu tiền xử lý dữ liệu
+2025-10-06 17:26:52,852 - INFO - Đọc dữ liệu thô từ thư mục
+2025-10-06 17:26:53,239 - INFO - Đã đọc 2738 bài viết từ thư mục raw
+2025-10-06 17:26:53,239 - INFO - đọc 2738 file json
+2025-10-06 17:26:54,468 - INFO - Đã hoàn thành tiền xử lý dữ liệu: 2730 bài viết
+2025-10-06 17:26:54,468 - INFO - Đã hỏng tiền xử lý dữ liệu: 2730 bài viết

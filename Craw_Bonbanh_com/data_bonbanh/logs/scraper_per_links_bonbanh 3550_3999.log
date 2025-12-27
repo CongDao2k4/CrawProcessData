@@ -1,0 +1,1908 @@
+2025-10-06 02:03:17,282 - INFO - Hệ thống logging và cấu trúc thư mục đã được khởi tạo thành công.
+2025-10-06 02:03:17,283 - ERROR - ❌ File data_bonbanh/sell_cars.csv không tồn tại!
+2025-10-06 02:03:17,284 - WARNING - ⚠️ Không có URL nào để crawl.
+2025-10-06 02:08:07,887 - INFO - Hệ thống logging và cấu trúc thư mục đã được khởi tạo thành công.
+2025-10-06 02:08:07,906 - INFO - ✅ Đọc được 5835 URL từ data_bonbanh/sell_cars.csv
+2025-10-06 02:08:07,907 - INFO - ĐANG CẠO LINK ROW 3550 đến 3559
+2025-10-06 02:08:17,646 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-nx-300-2021-6401056
+2025-10-06 02:08:20,961 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dd624d70b90>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/281d8747f7bede23b8d42d0059945155
+2025-10-06 02:08:20,969 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dd63ab08d40>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/281d8747f7bede23b8d42d0059945155
+2025-10-06 02:08:20,974 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7dd6249abdd0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/281d8747f7bede23b8d42d0059945155
+2025-10-06 02:08:20,993 - ERROR - Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+2025-10-06 02:08:21,030 - INFO - 
+Unfortunately, your original traceback can not be constructed.
+
+2025-10-06 02:08:31,169 - INFO - Hệ thống logging và cấu trúc thư mục đã được khởi tạo thành công.
+2025-10-06 02:08:31,182 - INFO - ✅ Đọc được 5835 URL từ data_bonbanh/sell_cars.csv
+2025-10-06 02:08:31,183 - INFO - ĐANG CẠO LINK ROW 3550 đến 3559
+2025-10-06 02:08:31,721 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-nx-300-2021-6401056
+2025-10-06 02:08:36,468 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-nx-300-2021-6401056 !
+2025-10-06 02:08:36,470 - INFO -      Status là 1
+2025-10-06 02:08:38,552 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-nx-300-2021-6401056
+2025-10-06 02:08:39,356 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-elantra-2.0-at-cao-cap-2025-4645596
+2025-10-06 02:09:05,025 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-elantra-2.0-at-cao-cap-2025-4645596 !
+2025-10-06 02:09:05,029 - INFO -      Status là 1
+2025-10-06 02:09:07,062 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-elantra-2.0-at-cao-cap-2025-4645596
+2025-10-06 02:09:07,632 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-explorer-limited-2.3l-ecoboost-2021-6451431
+2025-10-06 02:09:28,747 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-explorer-limited-2.3l-ecoboost-2021-6451431 !
+2025-10-06 02:09:28,751 - INFO -      Status là 1
+2025-10-06 02:09:30,810 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-explorer-limited-2.3l-ecoboost-2021-6451431
+2025-10-06 02:09:31,709 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-200-2018-6301914
+2025-10-06 02:09:49,751 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-200-2018-6301914 !
+2025-10-06 02:09:49,754 - INFO -      Status là 1
+2025-10-06 02:09:51,820 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-200-2018-6301914
+2025-10-06 02:09:52,444 - INFO - Đang thử truy cập https://bonbanh.com/xe-suzuki-super_carry_van-blind-van-2022-6456832
+2025-10-06 02:10:14,283 - INFO -      Truy cập thành công https://bonbanh.com/xe-suzuki-super_carry_van-blind-van-2022-6456832 !
+2025-10-06 02:10:14,286 - INFO -      Status là 1
+2025-10-06 02:10:16,419 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-suzuki-super_carry_van-blind-van-2022-6456832
+2025-10-06 02:10:17,587 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-cx3-luxury-1.5-at-2022-6387622
+2025-10-06 02:10:35,287 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-cx3-luxury-1.5-at-2022-6387622 !
+2025-10-06 02:10:35,292 - INFO -      Status là 1
+2025-10-06 02:10:37,327 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-cx3-luxury-1.5-at-2022-6387622
+2025-10-06 02:10:37,957 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-gle_class-gle-53-4matic+-coupe-amg-2022-5342707
+2025-10-06 02:10:45,293 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-gle_class-gle-53-4matic+-coupe-amg-2022-5342707 !
+2025-10-06 02:10:45,297 - INFO -      Status là 1
+2025-10-06 02:10:47,335 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-gle_class-gle-53-4matic+-coupe-amg-2022-5342707
+2025-10-06 02:10:48,105 - INFO - Đang thử truy cập https://bonbanh.com/xe-mitsubishi-attrage-1.2-mt-2025-6114637
+2025-10-06 02:10:55,045 - INFO -      Truy cập thành công https://bonbanh.com/xe-mitsubishi-attrage-1.2-mt-2025-6114637 !
+2025-10-06 02:10:55,048 - INFO -      Status là 1
+2025-10-06 02:10:57,082 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mitsubishi-attrage-1.2-mt-2025-6114637
+2025-10-06 02:10:57,661 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-tucson-2.0-at-2019-6316131
+2025-10-06 02:11:20,361 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-tucson-2.0-at-2019-6316131 !
+2025-10-06 02:11:20,365 - INFO -      Status là 1
+2025-10-06 02:11:22,430 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-tucson-2.0-at-2019-6316131
+2025-10-06 02:11:23,610 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-3-1.5-at-2018-6222536
+2025-10-06 02:11:36,171 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-3-1.5-at-2018-6222536 !
+2025-10-06 02:11:36,177 - INFO -      Status là 1
+2025-10-06 02:11:38,214 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-3-1.5-at-2018-6222536
+2025-10-06 02:11:38,918 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:11:38,919 - INFO - ĐANG CẠO LINK ROW 3560 đến 3569
+2025-10-06 02:11:39,508 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-3_series-330i-m-sport-2024-6303360
+2025-10-06 02:11:45,566 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-3_series-330i-m-sport-2024-6303360 !
+2025-10-06 02:11:45,567 - INFO -      Status là 1
+2025-10-06 02:11:47,644 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-3_series-330i-m-sport-2024-6303360
+2025-10-06 02:11:48,365 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-tucson-1.6-at-turbo-2019-6458751
+2025-10-06 02:11:57,322 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-tucson-1.6-at-turbo-2019-6458751 !
+2025-10-06 02:11:57,325 - INFO -      Status là 1
+2025-10-06 02:11:59,359 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-tucson-1.6-at-turbo-2019-6458751
+2025-10-06 02:12:00,046 - INFO - Đang thử truy cập https://bonbanh.com/xe-bentley-flying_spur-v8-2022-6367546
+2025-10-06 02:12:16,001 - INFO -      Truy cập thành công https://bonbanh.com/xe-bentley-flying_spur-v8-2022-6367546 !
+2025-10-06 02:12:16,004 - INFO -      Status là 1
+2025-10-06 02:12:18,038 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bentley-flying_spur-v8-2022-6367546
+2025-10-06 02:12:18,781 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-lx-600-urban-2025-6139400
+2025-10-06 02:12:32,405 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-lx-600-urban-2025-6139400 !
+2025-10-06 02:12:32,407 - INFO -      Status là 1
+2025-10-06 02:12:34,450 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-lx-600-urban-2025-6139400
+2025-10-06 02:12:35,228 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-corolla_cross-1.8hev-2025-6458962
+2025-10-06 02:12:44,537 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-corolla_cross-1.8hev-2025-6458962 !
+2025-10-06 02:12:44,541 - INFO -      Status là 1
+2025-10-06 02:12:46,582 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-corolla_cross-1.8hev-2025-6458962
+2025-10-06 02:12:47,147 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-5662872
+2025-10-06 02:12:59,792 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-5662872 !
+2025-10-06 02:12:59,794 - INFO -      Status là 1
+2025-10-06 02:13:01,826 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-5662872
+2025-10-06 02:13:02,397 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-c_class-c200-2015-6428928
+2025-10-06 02:13:12,125 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-c_class-c200-2015-6428928 !
+2025-10-06 02:13:12,127 - INFO -      Status là 1
+2025-10-06 02:13:14,159 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-c_class-c200-2015-6428928
+2025-10-06 02:13:14,774 - INFO - Đang thử truy cập https://bonbanh.com/xe-mitsubishi-xpander-1.5-at-2019-6294745
+2025-10-06 02:13:28,661 - INFO -      Truy cập thành công https://bonbanh.com/xe-mitsubishi-xpander-1.5-at-2019-6294745 !
+2025-10-06 02:13:28,662 - INFO -      Status là 1
+2025-10-06 02:13:30,726 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mitsubishi-xpander-1.5-at-2019-6294745
+2025-10-06 02:13:31,349 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-x5-xdrive40i-m-sport-2022-6429733
+2025-10-06 02:13:39,646 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-x5-xdrive40i-m-sport-2022-6429733 !
+2025-10-06 02:13:39,651 - INFO -      Status là 1
+2025-10-06 02:13:41,690 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-x5-xdrive40i-m-sport-2022-6429733
+2025-10-06 02:13:42,493 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-3-2.0-at-2017-6291855
+2025-10-06 02:13:54,499 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-3-2.0-at-2017-6291855 !
+2025-10-06 02:13:54,501 - INFO -      Status là 1
+2025-10-06 02:13:56,536 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-3-2.0-at-2017-6291855
+2025-10-06 02:13:57,262 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:13:57,263 - INFO - ĐANG CẠO LINK ROW 3570 đến 3579
+2025-10-06 02:13:57,882 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-innova-cross-2.0-cvt-2025-6257754
+2025-10-06 02:14:23,307 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-innova-cross-2.0-cvt-2025-6257754 !
+2025-10-06 02:14:23,313 - INFO -      Status là 1
+2025-10-06 02:14:25,380 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-innova-cross-2.0-cvt-2025-6257754
+2025-10-06 02:14:26,072 - INFO - Đang thử truy cập https://bonbanh.com/xe-chevrolet-spark-duo-van-1.2-mt-2018-6282707
+2025-10-06 02:14:39,197 - INFO -      Truy cập thành công https://bonbanh.com/xe-chevrolet-spark-duo-van-1.2-mt-2018-6282707 !
+2025-10-06 02:14:39,199 - INFO -      Status là 1
+2025-10-06 02:14:41,237 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-chevrolet-spark-duo-van-1.2-mt-2018-6282707
+2025-10-06 02:14:41,854 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-gle_class-gle-450-4matic-2021-5583218
+2025-10-06 02:15:02,475 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-gle_class-gle-450-4matic-2021-5583218 !
+2025-10-06 02:15:02,477 - INFO -      Status là 1
+2025-10-06 02:15:04,550 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-gle_class-gle-450-4matic-2021-5583218
+2025-10-06 02:15:05,232 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-yaris-1.5g-2018-6351906
+2025-10-06 02:15:10,603 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-yaris-1.5g-2018-6351906 !
+2025-10-06 02:15:10,611 - INFO -      Status là 1
+2025-10-06 02:15:12,654 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-yaris-1.5g-2018-6351906
+2025-10-06 02:15:13,302 - INFO - Đang thử truy cập https://bonbanh.com/xe-mitsubishi-outlander-2.0-cvt-2021-6415460
+2025-10-06 02:15:57,384 - INFO -      Truy cập thành công https://bonbanh.com/xe-mitsubishi-outlander-2.0-cvt-2021-6415460 !
+2025-10-06 02:15:57,391 - INFO -      Status là 1
+2025-10-06 02:15:59,423 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mitsubishi-outlander-2.0-cvt-2021-6415460
+2025-10-06 02:16:00,047 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-hiace-3.0-2018-6462302
+2025-10-06 02:16:07,422 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-hiace-3.0-2018-6462302 !
+2025-10-06 02:16:07,426 - INFO -      Status là 1
+2025-10-06 02:16:09,467 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-hiace-3.0-2018-6462302
+2025-10-06 02:16:10,386 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-santafe-tieu-chuan-2.2l-2022-6452648
+2025-10-06 02:16:24,321 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-santafe-tieu-chuan-2.2l-2022-6452648 !
+2025-10-06 02:16:24,324 - INFO -      Status là 1
+2025-10-06 02:16:26,360 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-santafe-tieu-chuan-2.2l-2022-6452648
+2025-10-06 02:16:26,993 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-c_class-c250-exclusive-2015-6247413
+2025-10-06 02:16:45,136 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-c_class-c250-exclusive-2015-6247413 !
+2025-10-06 02:16:45,137 - INFO -      Status là 1
+2025-10-06 02:16:47,174 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-c_class-c250-exclusive-2015-6247413
+2025-10-06 02:16:47,812 - INFO - Đang thử truy cập https://bonbanh.com/xe-chevrolet-captiva-lt-maxx-2.4-mt-2010-6462227
+2025-10-06 02:16:55,855 - INFO -      Truy cập thành công https://bonbanh.com/xe-chevrolet-captiva-lt-maxx-2.4-mt-2010-6462227 !
+2025-10-06 02:16:55,858 - INFO -      Status là 1
+2025-10-06 02:16:57,895 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-chevrolet-captiva-lt-maxx-2.4-mt-2010-6462227
+2025-10-06 02:16:58,480 - INFO - Đang thử truy cập https://bonbanh.com/xe-mitsubishi-xforce-ultimate-2025-6445051
+2025-10-06 02:17:08,139 - INFO -      Truy cập thành công https://bonbanh.com/xe-mitsubishi-xforce-ultimate-2025-6445051 !
+2025-10-06 02:17:08,141 - INFO -      Status là 1
+2025-10-06 02:17:10,174 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mitsubishi-xforce-ultimate-2025-6445051
+2025-10-06 02:17:10,831 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:17:10,832 - INFO - ĐANG CẠO LINK ROW 3580 đến 3589
+2025-10-06 02:17:11,403 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-fadil-tieu-chuan-1.4-at-2022-6424639
+2025-10-06 02:17:21,466 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-fadil-tieu-chuan-1.4-at-2022-6424639 !
+2025-10-06 02:17:21,469 - INFO -      Status là 1
+2025-10-06 02:17:23,533 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-fadil-tieu-chuan-1.4-at-2022-6424639
+2025-10-06 02:17:24,575 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-morning-van-1.0-at-2013-6306112
+2025-10-06 02:17:34,020 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-morning-van-1.0-at-2013-6306112 !
+2025-10-06 02:17:34,023 - INFO -      Status là 1
+2025-10-06 02:17:36,060 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-morning-van-1.0-at-2013-6306112
+2025-10-06 02:17:36,777 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-c_class-c43-amg-4matic-2023-6334205
+2025-10-06 02:18:00,503 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-c_class-c43-amg-4matic-2023-6334205 !
+2025-10-06 02:18:00,505 - INFO -      Status là 1
+2025-10-06 02:18:02,540 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-c_class-c43-amg-4matic-2023-6334205
+2025-10-06 02:18:03,160 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-sedona-2.2l-dath-2018-6251107
+2025-10-06 02:18:28,470 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-sedona-2.2l-dath-2018-6251107 !
+2025-10-06 02:18:28,472 - INFO -      Status là 1
+2025-10-06 02:18:30,506 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-sedona-2.2l-dath-2018-6251107
+2025-10-06 02:18:31,171 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-yaris-1.3e-2015-6457224
+2025-10-06 02:18:39,238 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-yaris-1.3e-2015-6457224 !
+2025-10-06 02:18:39,243 - INFO -      Status là 1
+2025-10-06 02:18:41,305 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-yaris-1.3e-2015-6457224
+2025-10-06 02:18:42,150 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-vios-1.5e-2017-6462264
+2025-10-06 02:18:50,161 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-vios-1.5e-2017-6462264 !
+2025-10-06 02:18:50,163 - INFO -      Status là 1
+2025-10-06 02:18:52,197 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-vios-1.5e-2017-6462264
+2025-10-06 02:18:52,816 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf5-plus-2025-6450583
+2025-10-06 02:19:04,367 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf5-plus-2025-6450583 !
+2025-10-06 02:19:04,369 - INFO -      Status là 1
+2025-10-06 02:19:06,405 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf5-plus-2025-6450583
+2025-10-06 02:19:07,019 - INFO - Đang thử truy cập https://bonbanh.com/xe-honda-civic-1.8-at-2009-6357112
+2025-10-06 02:19:29,437 - INFO -      Truy cập thành công https://bonbanh.com/xe-honda-civic-1.8-at-2009-6357112 !
+2025-10-06 02:19:29,439 - INFO -      Status là 1
+2025-10-06 02:19:31,476 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-honda-civic-1.8-at-2009-6357112
+2025-10-06 02:19:32,097 - INFO - Đang thử truy cập https://bonbanh.com/xe-landrover-range_rover-autobiography-lwb-4.4-v8-awd-2023-6251696
+2025-10-06 02:19:39,835 - INFO -      Truy cập thành công https://bonbanh.com/xe-landrover-range_rover-autobiography-lwb-4.4-v8-awd-2023-6251696 !
+2025-10-06 02:19:39,838 - INFO -      Status là 1
+2025-10-06 02:19:41,874 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-landrover-range_rover-autobiography-lwb-4.4-v8-awd-2023-6251696
+2025-10-06 02:19:42,486 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-cx5-luxury-2.0-at-2025-6444020
+2025-10-06 02:19:47,844 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-cx5-luxury-2.0-at-2025-6444020 !
+2025-10-06 02:19:47,850 - INFO -      Status là 1
+2025-10-06 02:19:49,888 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-cx5-luxury-2.0-at-2025-6444020
+2025-10-06 02:19:50,608 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:19:50,614 - INFO - ĐANG CẠO LINK ROW 3590 đến 3599
+2025-10-06 02:19:51,169 - INFO - Đang thử truy cập https://bonbanh.com/xe-peugeot-3008-1.6-at-2018-6443206
+2025-10-06 02:20:04,636 - INFO -      Truy cập thành công https://bonbanh.com/xe-peugeot-3008-1.6-at-2018-6443206 !
+2025-10-06 02:20:04,637 - INFO -      Status là 1
+2025-10-06 02:20:06,715 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-peugeot-3008-1.6-at-2018-6443206
+2025-10-06 02:20:08,119 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-everest-sport-2.0l-4x2-at-2025-5662525
+2025-10-06 02:20:35,747 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-everest-sport-2.0l-4x2-at-2025-5662525 !
+2025-10-06 02:20:35,754 - INFO -      Status là 1
+2025-10-06 02:20:37,790 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-everest-sport-2.0l-4x2-at-2025-5662525
+2025-10-06 02:20:38,363 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2022-6424359
+2025-10-06 02:21:04,673 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2022-6424359 !
+2025-10-06 02:21:04,682 - INFO -      Status là 1
+2025-10-06 02:21:06,720 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2022-6424359
+2025-10-06 02:21:07,521 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-cx5-2.5-at-2wd-2018-6438508
+2025-10-06 02:21:26,920 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-cx5-2.5-at-2wd-2018-6438508 !
+2025-10-06 02:21:26,926 - INFO -      Status là 1
+2025-10-06 02:21:28,965 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-cx5-2.5-at-2wd-2018-6438508
+2025-10-06 02:21:29,762 - INFO - Đang thử truy cập https://bonbanh.com/xe-volkswagen-viloran-luxury-2024-6445056
+2025-10-06 02:21:48,289 - INFO -      Truy cập thành công https://bonbanh.com/xe-volkswagen-viloran-luxury-2024-6445056 !
+2025-10-06 02:21:48,292 - INFO -      Status là 1
+2025-10-06 02:21:50,331 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-volkswagen-viloran-luxury-2024-6445056
+2025-10-06 02:21:50,958 - INFO - Đang thử truy cập https://bonbanh.com/xe-landrover-range_rover_evoque-hse-2015-6405323
+2025-10-06 02:21:58,509 - INFO -      Truy cập thành công https://bonbanh.com/xe-landrover-range_rover_evoque-hse-2015-6405323 !
+2025-10-06 02:21:58,510 - INFO -      Status là 1
+2025-10-06 02:22:00,547 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-landrover-range_rover_evoque-hse-2015-6405323
+2025-10-06 02:22:01,341 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2023-6436528
+2025-10-06 02:22:11,427 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2023-6436528 !
+2025-10-06 02:22:11,433 - INFO -      Status là 1
+2025-10-06 02:22:13,473 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2023-6436528
+2025-10-06 02:22:14,223 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2022-6225731
+2025-10-06 02:22:35,299 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2022-6225731 !
+2025-10-06 02:22:35,301 - INFO -      Status là 1
+2025-10-06 02:22:37,333 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2022-6225731
+2025-10-06 02:22:37,945 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-vios-1.5e-2012-6406579
+2025-10-06 02:22:54,451 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-vios-1.5e-2012-6406579 !
+2025-10-06 02:22:54,453 - INFO -      Status là 1
+2025-10-06 02:22:56,490 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-vios-1.5e-2012-6406579
+2025-10-06 02:22:57,253 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-raize-g-1.0-cvt-2025-6446437
+2025-10-06 02:23:08,175 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-raize-g-1.0-cvt-2025-6446437 !
+2025-10-06 02:23:08,176 - INFO -      Status là 1
+2025-10-06 02:23:10,215 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-raize-g-1.0-cvt-2025-6446437
+2025-10-06 02:23:11,116 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:23:11,119 - INFO - ĐANG CẠO LINK ROW 3600 đến 3609
+2025-10-06 02:23:12,115 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-veloz-cross-top-1.5-cvt-2025-4234962
+2025-10-06 02:23:27,418 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-veloz-cross-top-1.5-cvt-2025-4234962 !
+2025-10-06 02:23:27,421 - INFO -      Status là 1
+2025-10-06 02:23:29,503 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-veloz-cross-top-1.5-cvt-2025-4234962
+2025-10-06 02:23:30,098 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glk_class-glk300-4matic-2012-6374691
+2025-10-06 02:23:53,810 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glk_class-glk300-4matic-2012-6374691 !
+2025-10-06 02:23:53,813 - INFO -      Status là 1
+2025-10-06 02:23:55,851 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glk_class-glk300-4matic-2012-6374691
+2025-10-06 02:23:56,639 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-5_series-528i-gt-2015-6276317
+2025-10-06 02:24:15,315 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-5_series-528i-gt-2015-6276317 !
+2025-10-06 02:24:15,316 - INFO -      Status là 1
+2025-10-06 02:24:17,358 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-5_series-528i-gt-2015-6276317
+2025-10-06 02:24:18,101 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-200-4matic-2021-6455725
+2025-10-06 02:24:23,427 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-200-4matic-2021-6455725 !
+2025-10-06 02:24:23,434 - INFO -      Status là 1
+2025-10-06 02:24:25,499 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-200-4matic-2021-6455725
+2025-10-06 02:24:26,688 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-rx-350-luxury-2024-6418075
+2025-10-06 02:24:38,092 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-rx-350-luxury-2024-6418075 !
+2025-10-06 02:24:38,095 - INFO -      Status là 1
+2025-10-06 02:24:40,134 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-rx-350-luxury-2024-6418075
+2025-10-06 02:24:40,932 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-200-2022-6356421
+2025-10-06 02:24:46,911 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-200-2022-6356421 !
+2025-10-06 02:24:46,912 - INFO -      Status là 1
+2025-10-06 02:24:48,943 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-200-2022-6356421
+2025-10-06 02:24:49,586 - INFO - Đang thử truy cập https://bonbanh.com/xe-landrover-range_rover_evoque-autobiography-2016-6453958
+2025-10-06 02:25:06,744 - INFO -      Truy cập thành công https://bonbanh.com/xe-landrover-range_rover_evoque-autobiography-2016-6453958 !
+2025-10-06 02:25:06,749 - INFO -      Status là 1
+2025-10-06 02:25:08,792 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-landrover-range_rover_evoque-autobiography-2016-6453958
+2025-10-06 02:25:09,558 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-s_class-s450l-2017-6333806
+2025-10-06 02:25:15,038 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-s_class-s450l-2017-6333806 !
+2025-10-06 02:25:15,041 - INFO -      Status là 1
+2025-10-06 02:25:17,073 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-s_class-s450l-2017-6333806
+2025-10-06 02:25:17,700 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-rx-350-luxury-2023-6304241
+2025-10-06 02:25:37,440 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-rx-350-luxury-2023-6304241 !
+2025-10-06 02:25:37,441 - INFO -      Status là 1
+2025-10-06 02:25:39,479 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-rx-350-luxury-2023-6304241
+2025-10-06 02:25:40,225 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-lux_a_2.0-tieu-chuan-2022-6446752
+2025-10-06 02:25:51,793 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-lux_a_2.0-tieu-chuan-2022-6446752 !
+2025-10-06 02:25:51,795 - INFO -      Status là 1
+2025-10-06 02:25:53,841 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-lux_a_2.0-tieu-chuan-2022-6446752
+2025-10-06 02:25:54,787 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:25:54,788 - INFO - ĐANG CẠO LINK ROW 3610 đến 3619
+2025-10-06 02:25:55,764 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-6423077
+2025-10-06 02:26:01,902 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-6423077 !
+2025-10-06 02:26:01,908 - INFO -      Status là 1
+2025-10-06 02:26:04,053 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-6423077
+2025-10-06 02:26:05,207 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2025-6370191
+2025-10-06 02:26:12,672 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2025-6370191 !
+2025-10-06 02:26:12,677 - INFO -      Status là 1
+2025-10-06 02:26:14,717 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2025-6370191
+2025-10-06 02:26:15,288 - INFO - Đang thử truy cập https://bonbanh.com/xe-nissan-navara-vl-2.5-at-4wd-2016-6380451
+2025-10-06 02:26:41,525 - INFO -      Truy cập thành công https://bonbanh.com/xe-nissan-navara-vl-2.5-at-4wd-2016-6380451 !
+2025-10-06 02:26:41,530 - INFO -      Status là 1
+2025-10-06 02:26:43,576 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-nissan-navara-vl-2.5-at-4wd-2016-6380451
+2025-10-06 02:26:44,448 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-limo-green-at-2025-6446863
+2025-10-06 02:27:03,720 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-limo-green-at-2025-6446863 !
+2025-10-06 02:27:03,724 - INFO -      Status là 1
+2025-10-06 02:27:05,758 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-limo-green-at-2025-6446863
+2025-10-06 02:27:06,333 - INFO - Đang thử truy cập https://bonbanh.com/xe-nissan-sunny-xv-2016-6317206
+2025-10-06 02:27:29,546 - INFO -      Truy cập thành công https://bonbanh.com/xe-nissan-sunny-xv-2016-6317206 !
+2025-10-06 02:27:29,548 - INFO -      Status là 1
+2025-10-06 02:27:31,584 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-nissan-sunny-xv-2016-6317206
+2025-10-06 02:27:32,221 - INFO - Đang thử truy cập https://bonbanh.com/xe-mitsubishi-attrage-1.2-mt-2024-5753726
+2025-10-06 02:27:43,439 - INFO -      Truy cập thành công https://bonbanh.com/xe-mitsubishi-attrage-1.2-mt-2024-5753726 !
+2025-10-06 02:27:43,443 - INFO -      Status là 1
+2025-10-06 02:27:45,474 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mitsubishi-attrage-1.2-mt-2024-5753726
+2025-10-06 02:27:46,078 - INFO - Đang thử truy cập https://bonbanh.com/xe-audi-a6-2.0t-2013-6445198
+2025-10-06 02:27:54,226 - INFO -      Truy cập thành công https://bonbanh.com/xe-audi-a6-2.0t-2013-6445198 !
+2025-10-06 02:27:54,227 - INFO -      Status là 1
+2025-10-06 02:27:56,266 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-audi-a6-2.0t-2013-6445198
+2025-10-06 02:27:57,008 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-6436915
+2025-10-06 02:28:04,412 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-6436915 !
+2025-10-06 02:28:04,416 - INFO -      Status là 1
+2025-10-06 02:28:06,450 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-6436915
+2025-10-06 02:28:07,038 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf5-plus-2025-6238300
+2025-10-06 02:28:32,726 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf5-plus-2025-6238300 !
+2025-10-06 02:28:32,728 - INFO -      Status là 1
+2025-10-06 02:28:34,760 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf5-plus-2025-6238300
+2025-10-06 02:28:35,332 - INFO - Đang thử truy cập https://bonbanh.com/xe-volkswagen-teramont-x-luxury-2.0-at-2025-6367645
+2025-10-06 02:29:09,670 - INFO -      Truy cập thành công https://bonbanh.com/xe-volkswagen-teramont-x-luxury-2.0-at-2025-6367645 !
+2025-10-06 02:29:09,675 - INFO -      Status là 1
+2025-10-06 02:29:11,717 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-volkswagen-teramont-x-luxury-2.0-at-2025-6367645
+2025-10-06 02:29:12,653 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:29:12,656 - INFO - ĐANG CẠO LINK ROW 3620 đến 3629
+2025-10-06 02:29:13,388 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-fadil-tieu-chuan-1.4-at-2022-6431732
+2025-10-06 02:29:25,216 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-fadil-tieu-chuan-1.4-at-2022-6431732 !
+2025-10-06 02:29:25,220 - INFO -      Status là 1
+2025-10-06 02:29:27,286 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-fadil-tieu-chuan-1.4-at-2022-6431732
+2025-10-06 02:29:28,097 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-at-2020-6457025
+2025-10-06 02:29:45,622 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-at-2020-6457025 !
+2025-10-06 02:29:45,624 - INFO -      Status là 1
+2025-10-06 02:29:47,663 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-at-2020-6457025
+2025-10-06 02:29:48,254 - INFO - Đang thử truy cập https://bonbanh.com/xe-samsung-qm5-2.0-at-2014-6301664
+2025-10-06 02:30:16,421 - INFO -      Truy cập thành công https://bonbanh.com/xe-samsung-qm5-2.0-at-2014-6301664 !
+2025-10-06 02:30:16,423 - INFO -      Status là 1
+2025-10-06 02:30:18,459 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-samsung-qm5-2.0-at-2014-6301664
+2025-10-06 02:30:19,075 - INFO - Đang thử truy cập https://bonbanh.com/xe-honda-city-1.5-at-2014-6356526
+2025-10-06 02:30:35,649 - INFO -      Truy cập thành công https://bonbanh.com/xe-honda-city-1.5-at-2014-6356526 !
+2025-10-06 02:30:35,651 - INFO -      Status là 1
+2025-10-06 02:30:37,687 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-honda-city-1.5-at-2014-6356526
+2025-10-06 02:30:38,451 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-prado-txl-2.7l-2010-6326824
+2025-10-06 02:30:50,267 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-prado-txl-2.7l-2010-6326824 !
+2025-10-06 02:30:50,270 - INFO -      Status là 1
+2025-10-06 02:30:52,328 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-prado-txl-2.7l-2010-6326824
+2025-10-06 02:30:53,318 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-raptor-2.0l-4x4-at-2025-6008993
+2025-10-06 02:31:06,418 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-raptor-2.0l-4x4-at-2025-6008993 !
+2025-10-06 02:31:06,420 - INFO -      Status là 1
+2025-10-06 02:31:08,482 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-raptor-2.0l-4x4-at-2025-6008993
+2025-10-06 02:31:09,819 - INFO - Đang thử truy cập https://bonbanh.com/xe-honda-crv-l-2025-6392341
+2025-10-06 02:31:17,853 - INFO -      Truy cập thành công https://bonbanh.com/xe-honda-crv-l-2025-6392341 !
+2025-10-06 02:31:17,854 - INFO -      Status là 1
+2025-10-06 02:31:19,888 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-honda-crv-l-2025-6392341
+2025-10-06 02:31:20,444 - INFO - Đang thử truy cập https://bonbanh.com/xe-isuzu-dmax-ls-2.5-4x4-at-2016-6458948
+2025-10-06 02:31:29,432 - INFO -      Truy cập thành công https://bonbanh.com/xe-isuzu-dmax-ls-2.5-4x4-at-2016-6458948 !
+2025-10-06 02:31:29,437 - INFO -      Status là 1
+2025-10-06 02:31:31,471 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-isuzu-dmax-ls-2.5-4x4-at-2016-6458948
+2025-10-06 02:31:32,067 - INFO - Đang thử truy cập https://bonbanh.com/xe-suzuki-swift-glx-1.2-at-2019-6385799
+2025-10-06 02:31:48,817 - INFO -      Truy cập thành công https://bonbanh.com/xe-suzuki-swift-glx-1.2-at-2019-6385799 !
+2025-10-06 02:31:48,819 - INFO -      Status là 1
+2025-10-06 02:31:50,851 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-suzuki-swift-glx-1.2-at-2019-6385799
+2025-10-06 02:31:51,520 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf8-eco-2023-6393279
+2025-10-06 02:32:01,844 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf8-eco-2023-6393279 !
+2025-10-06 02:32:01,851 - INFO -      Status là 1
+2025-10-06 02:32:03,883 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf8-eco-2023-6393279
+2025-10-06 02:32:04,577 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:32:04,578 - INFO - ĐANG CẠO LINK ROW 3630 đến 3639
+2025-10-06 02:32:05,152 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-santafe-premium-2.4l-htrac-2019-6388507
+2025-10-06 02:32:16,024 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-santafe-premium-2.4l-htrac-2019-6388507 !
+2025-10-06 02:32:16,025 - INFO -      Status là 1
+2025-10-06 02:32:18,104 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-santafe-premium-2.4l-htrac-2019-6388507
+2025-10-06 02:32:18,757 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-lx-600-f-sport-2023-6424654
+2025-10-06 02:32:45,795 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-lx-600-f-sport-2023-6424654 !
+2025-10-06 02:32:45,797 - INFO -      Status là 1
+2025-10-06 02:32:47,829 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-lx-600-f-sport-2023-6424654
+2025-10-06 02:32:48,412 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-x4-xdrive20i-m-sport-2020-6454243
+2025-10-06 02:33:26,491 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-x4-xdrive20i-m-sport-2020-6454243 !
+2025-10-06 02:33:26,492 - INFO -      Status là 1
+2025-10-06 02:33:28,596 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-x4-xdrive20i-m-sport-2020-6454243
+2025-10-06 02:33:29,396 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-c_class-c250-exclusive-2017-6462261
+2025-10-06 02:33:41,738 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-c_class-c250-exclusive-2017-6462261 !
+2025-10-06 02:33:41,739 - INFO -      Status là 1
+2025-10-06 02:33:43,781 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-c_class-c250-exclusive-2017-6462261
+2025-10-06 02:33:44,712 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-gls-450-4matic-2022-6461868
+2025-10-06 02:34:16,889 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-gls-450-4matic-2022-6461868 !
+2025-10-06 02:34:16,891 - INFO -      Status là 1
+2025-10-06 02:34:18,924 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-gls-450-4matic-2022-6461868
+2025-10-06 02:34:19,514 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-prado-txl-2.7l-2015-6387103
+2025-10-06 02:34:27,157 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-prado-txl-2.7l-2015-6387103 !
+2025-10-06 02:34:27,159 - INFO -      Status là 1
+2025-10-06 02:34:29,191 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-prado-txl-2.7l-2015-6387103
+2025-10-06 02:34:29,847 - INFO - Đang thử truy cập https://bonbanh.com/xe-suzuki-swift-glx-1.2-at-2019-6428977
+2025-10-06 02:34:39,392 - INFO -      Truy cập thành công https://bonbanh.com/xe-suzuki-swift-glx-1.2-at-2019-6428977 !
+2025-10-06 02:34:39,397 - INFO -      Status là 1
+2025-10-06 02:34:41,435 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-suzuki-swift-glx-1.2-at-2019-6428977
+2025-10-06 02:34:42,197 - INFO - Đang thử truy cập https://bonbanh.com/xe-honda-city-1.5top-2019-6418262
+2025-10-06 02:34:47,922 - INFO -      Truy cập thành công https://bonbanh.com/xe-honda-city-1.5top-2019-6418262 !
+2025-10-06 02:34:47,925 - INFO -      Status là 1
+2025-10-06 02:34:49,958 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-honda-city-1.5top-2019-6418262
+2025-10-06 02:34:50,627 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-tucson-2.0-at-2018-6389900
+2025-10-06 02:35:01,650 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-tucson-2.0-at-2018-6389900 !
+2025-10-06 02:35:01,652 - INFO -      Status là 1
+2025-10-06 02:35:03,684 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-tucson-2.0-at-2018-6389900
+2025-10-06 02:35:04,302 - INFO - Đang thử truy cập https://bonbanh.com/xe-honda-city-1.5top-2019-6423968
+2025-10-06 02:35:12,454 - INFO -      Truy cập thành công https://bonbanh.com/xe-honda-city-1.5top-2019-6423968 !
+2025-10-06 02:35:12,458 - INFO -      Status là 1
+2025-10-06 02:35:14,488 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-honda-city-1.5top-2019-6423968
+2025-10-06 02:35:15,247 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:35:15,249 - INFO - ĐANG CẠO LINK ROW 3640 đến 3649
+2025-10-06 02:35:15,771 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-i10-grand-1.2-at-2020-6206548
+2025-10-06 02:35:33,893 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-i10-grand-1.2-at-2020-6206548 !
+2025-10-06 02:35:33,899 - INFO -      Status là 1
+2025-10-06 02:35:35,976 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-i10-grand-1.2-at-2020-6206548
+2025-10-06 02:35:36,615 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-prado-vx-2.7l-2022-6183399
+2025-10-06 02:36:18,313 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-prado-vx-2.7l-2022-6183399 !
+2025-10-06 02:36:18,315 - INFO -      Status là 1
+2025-10-06 02:36:20,346 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-prado-vx-2.7l-2022-6183399
+2025-10-06 02:36:20,956 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-alphard-executive-lounge-2019-6424880
+2025-10-06 02:36:39,832 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-alphard-executive-lounge-2019-6424880 !
+2025-10-06 02:36:39,834 - INFO -      Status là 1
+2025-10-06 02:36:41,889 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-alphard-executive-lounge-2019-6424880
+2025-10-06 02:36:42,755 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-lx-600-f-sport-2025-6395380
+2025-10-06 02:37:03,604 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-lx-600-f-sport-2025-6395380 !
+2025-10-06 02:37:03,606 - INFO -      Status là 1
+2025-10-06 02:37:05,638 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-lx-600-f-sport-2025-6395380
+2025-10-06 02:37:06,264 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2017-6446990
+2025-10-06 02:37:21,554 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2017-6446990 !
+2025-10-06 02:37:21,557 - INFO -      Status là 1
+2025-10-06 02:37:23,598 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2017-6446990
+2025-10-06 02:37:24,355 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-carnival-signature-3.5g-2023-6424053
+2025-10-06 02:37:34,960 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-carnival-signature-3.5g-2023-6424053 !
+2025-10-06 02:37:34,962 - INFO -      Status là 1
+2025-10-06 02:37:37,010 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-carnival-signature-3.5g-2023-6424053
+2025-10-06 02:37:37,819 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-santafe-tieu-chuan-2.5l-2022-6415550
+2025-10-06 02:38:01,234 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-santafe-tieu-chuan-2.5l-2022-6415550 !
+2025-10-06 02:38:01,236 - INFO -      Status là 1
+2025-10-06 02:38:03,270 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-santafe-tieu-chuan-2.5l-2022-6415550
+2025-10-06 02:38:03,893 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-morning-luxury-2019-6368888
+2025-10-06 02:38:10,778 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-morning-luxury-2019-6368888 !
+2025-10-06 02:38:10,779 - INFO -      Status là 1
+2025-10-06 02:38:12,827 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-morning-luxury-2019-6368888
+2025-10-06 02:38:13,651 - INFO - Đang thử truy cập https://bonbanh.com/xe-mitsubishi-attrage-1.2-mt-2022-6243707
+2025-10-06 02:38:26,671 - INFO -      Truy cập thành công https://bonbanh.com/xe-mitsubishi-attrage-1.2-mt-2022-6243707 !
+2025-10-06 02:38:26,679 - INFO -      Status là 1
+2025-10-06 02:38:28,773 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mitsubishi-attrage-1.2-mt-2022-6243707
+2025-10-06 02:38:30,038 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-3_series-320i-sport-line-2021-6409239
+2025-10-06 02:38:50,135 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-3_series-320i-sport-line-2021-6409239 !
+2025-10-06 02:38:50,137 - INFO -      Status là 1
+2025-10-06 02:38:52,174 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-3_series-320i-sport-line-2021-6409239
+2025-10-06 02:38:53,864 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:38:53,865 - INFO - ĐANG CẠO LINK ROW 3650 đến 3659
+2025-10-06 02:38:54,405 - INFO - Đang thử truy cập https://bonbanh.com/xe-subaru-forester-2.0i-s-eyesight-2024-6317635
+2025-10-06 02:39:05,682 - INFO -      Truy cập thành công https://bonbanh.com/xe-subaru-forester-2.0i-s-eyesight-2024-6317635 !
+2025-10-06 02:39:05,686 - INFO -      Status là 1
+2025-10-06 02:39:07,736 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-subaru-forester-2.0i-s-eyesight-2024-6317635
+2025-10-06 02:39:08,334 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-accent-1.4-mt-2016-6357902
+2025-10-06 02:39:16,024 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-accent-1.4-mt-2016-6357902 !
+2025-10-06 02:39:16,025 - INFO -      Status là 1
+2025-10-06 02:39:18,059 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-accent-1.4-mt-2016-6357902
+2025-10-06 02:39:18,666 - INFO - Đang thử truy cập https://bonbanh.com/xe-landrover-range_rover_velar-r-dynamic-se-2.0-2019-6387100
+2025-10-06 02:39:52,774 - INFO -      Truy cập thành công https://bonbanh.com/xe-landrover-range_rover_velar-r-dynamic-se-2.0-2019-6387100 !
+2025-10-06 02:39:52,776 - INFO -      Status là 1
+2025-10-06 02:39:54,810 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-landrover-range_rover_velar-r-dynamic-se-2.0-2019-6387100
+2025-10-06 02:39:55,532 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-wigo-g-1.2-at-2025-6401089
+2025-10-06 02:40:09,030 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-wigo-g-1.2-at-2025-6401089 !
+2025-10-06 02:40:09,032 - INFO -      Status là 1
+2025-10-06 02:40:11,074 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-wigo-g-1.2-at-2025-6401089
+2025-10-06 02:40:11,831 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-territory-sport-1.5-at-2025-6079362
+2025-10-06 02:40:34,187 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-territory-sport-1.5-at-2025-6079362 !
+2025-10-06 02:40:34,191 - INFO -      Status là 1
+2025-10-06 02:40:36,226 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-territory-sport-1.5-at-2025-6079362
+2025-10-06 02:40:36,778 - INFO - Đang thử truy cập https://bonbanh.com/xe-maserati-levante-3.0-v6-2017-6263185
+2025-10-06 02:40:43,095 - INFO -      Truy cập thành công https://bonbanh.com/xe-maserati-levante-3.0-v6-2017-6263185 !
+2025-10-06 02:40:43,097 - INFO -      Status là 1
+2025-10-06 02:40:45,143 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-maserati-levante-3.0-v6-2017-6263185
+2025-10-06 02:40:45,929 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-cx5-2.0-at-2015-6382279
+2025-10-06 02:41:04,767 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-cx5-2.0-at-2015-6382279 !
+2025-10-06 02:41:04,770 - INFO -      Status là 1
+2025-10-06 02:41:06,803 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-cx5-2.0-at-2015-6382279
+2025-10-06 02:41:07,423 - INFO - Đang thử truy cập https://bonbanh.com/xe-geely-ex5-pro-2025-6462203
+2025-10-06 02:41:17,957 - INFO -      Truy cập thành công https://bonbanh.com/xe-geely-ex5-pro-2025-6462203 !
+2025-10-06 02:41:17,959 - INFO -      Status là 1
+2025-10-06 02:41:19,995 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-geely-ex5-pro-2025-6462203
+2025-10-06 02:41:20,546 - INFO - Đang thử truy cập https://bonbanh.com/xe-mitsubishi-triton-4x2-at-mivec-2020-6462320
+2025-10-06 02:41:27,029 - INFO -      Truy cập thành công https://bonbanh.com/xe-mitsubishi-triton-4x2-at-mivec-2020-6462320 !
+2025-10-06 02:41:27,031 - INFO -      Status là 1
+2025-10-06 02:41:29,084 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mitsubishi-triton-4x2-at-mivec-2020-6462320
+2025-10-06 02:41:29,978 - INFO - Đang thử truy cập https://bonbanh.com/xe-porsche-panamera-3.0-v6-2017-6315171
+2025-10-06 02:41:37,654 - INFO -      Truy cập thành công https://bonbanh.com/xe-porsche-panamera-3.0-v6-2017-6315171 !
+2025-10-06 02:41:37,656 - INFO -      Status là 1
+2025-10-06 02:41:39,693 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-porsche-panamera-3.0-v6-2017-6315171
+2025-10-06 02:41:40,399 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:41:40,401 - INFO - ĐANG CẠO LINK ROW 3660 đến 3669
+2025-10-06 02:41:41,305 - INFO - Đang thử truy cập https://bonbanh.com/xe-mitsubishi-xforce-premium-2025-6116046
+2025-10-06 02:41:54,715 - INFO -      Truy cập thành công https://bonbanh.com/xe-mitsubishi-xforce-premium-2025-6116046 !
+2025-10-06 02:41:54,720 - INFO -      Status là 1
+2025-10-06 02:41:56,839 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mitsubishi-xforce-premium-2025-6116046
+2025-10-06 02:41:58,240 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-fortuner-trd-sportivo-4x2-at-2016-6462283
+2025-10-06 02:42:17,265 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-fortuner-trd-sportivo-4x2-at-2016-6462283 !
+2025-10-06 02:42:17,268 - INFO -      Status là 1
+2025-10-06 02:42:19,303 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-fortuner-trd-sportivo-4x2-at-2016-6462283
+2025-10-06 02:42:19,929 - INFO - Đang thử truy cập https://bonbanh.com/xe-landrover-range_rover_sport-hse-2.0-si4-2021-3082682
+2025-10-06 02:42:29,392 - INFO -      Truy cập thành công https://bonbanh.com/xe-landrover-range_rover_sport-hse-2.0-si4-2021-3082682 !
+2025-10-06 02:42:29,396 - INFO -      Status là 1
+2025-10-06 02:42:31,449 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-landrover-range_rover_sport-hse-2.0-si4-2021-3082682
+2025-10-06 02:42:32,279 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2024-6422792
+2025-10-06 02:42:48,357 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2024-6422792 !
+2025-10-06 02:42:48,359 - INFO -      Status là 1
+2025-10-06 02:42:50,397 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2024-6422792
+2025-10-06 02:42:51,004 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-3-1.5l-sport-luxury-2021-6376088
+2025-10-06 02:43:01,460 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-3-1.5l-sport-luxury-2021-6376088 !
+2025-10-06 02:43:01,464 - INFO -      Status là 1
+2025-10-06 02:43:03,502 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-3-1.5l-sport-luxury-2021-6376088
+2025-10-06 02:43:04,148 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-accent-1.4-ath-2019-6449456
+2025-10-06 02:43:14,565 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-accent-1.4-ath-2019-6449456 !
+2025-10-06 02:43:14,570 - INFO -      Status là 1
+2025-10-06 02:43:16,619 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-accent-1.4-ath-2019-6449456
+2025-10-06 02:43:17,460 - INFO - Đang thử truy cập https://bonbanh.com/xe-landrover-range_rover-autobiography-lwb-black-edition-2014-6459593
+2025-10-06 02:43:33,438 - INFO -      Truy cập thành công https://bonbanh.com/xe-landrover-range_rover-autobiography-lwb-black-edition-2014-6459593 !
+2025-10-06 02:43:33,440 - INFO -      Status là 1
+2025-10-06 02:43:35,473 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-landrover-range_rover-autobiography-lwb-black-edition-2014-6459593
+2025-10-06 02:43:36,097 - INFO - Đang thử truy cập https://bonbanh.com/xe-peugeot-2008-gt-line-1.2-at-2022-6390939
+2025-10-06 02:44:14,139 - INFO -      Truy cập thành công https://bonbanh.com/xe-peugeot-2008-gt-line-1.2-at-2022-6390939 !
+2025-10-06 02:44:14,141 - INFO -      Status là 1
+2025-10-06 02:44:16,186 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-peugeot-2008-gt-line-1.2-at-2022-6390939
+2025-10-06 02:44:16,984 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-cx5-2.5-at-2wd-2019-6423249
+2025-10-06 02:45:01,543 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-cx5-2.5-at-2wd-2019-6423249 !
+2025-10-06 02:45:01,549 - INFO -      Status là 1
+2025-10-06 02:45:03,584 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-cx5-2.5-at-2wd-2019-6423249
+2025-10-06 02:45:04,160 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2024-6421854
+2025-10-06 02:45:13,525 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2024-6421854 !
+2025-10-06 02:45:13,527 - INFO -      Status là 1
+2025-10-06 02:45:15,573 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2024-6421854
+2025-10-06 02:45:16,481 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:45:16,484 - INFO - ĐANG CẠO LINK ROW 3670 đến 3679
+2025-10-06 02:45:17,297 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf6-plus-2025-6427520
+2025-10-06 02:45:38,185 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf6-plus-2025-6427520 !
+2025-10-06 02:45:38,186 - INFO -      Status là 1
+2025-10-06 02:45:40,267 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf6-plus-2025-6427520
+2025-10-06 02:45:40,895 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-5_series-528i-2015-6210558
+2025-10-06 02:46:07,884 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-5_series-528i-2015-6210558 !
+2025-10-06 02:46:07,885 - INFO -      Status là 1
+2025-10-06 02:46:09,926 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-5_series-528i-2015-6210558
+2025-10-06 02:46:10,511 - INFO - Đang thử truy cập https://bonbanh.com/xe-peugeot-3008-1.6-at-2018-6351150
+2025-10-06 02:46:34,211 - INFO -      Truy cập thành công https://bonbanh.com/xe-peugeot-3008-1.6-at-2018-6351150 !
+2025-10-06 02:46:34,212 - INFO -      Status là 1
+2025-10-06 02:46:36,244 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-peugeot-3008-1.6-at-2018-6351150
+2025-10-06 02:46:37,015 - INFO - Đang thử truy cập https://bonbanh.com/xe-suzuki-ertiga-gl-1.5-mt-2020-6462337
+2025-10-06 02:46:57,040 - INFO -      Truy cập thành công https://bonbanh.com/xe-suzuki-ertiga-gl-1.5-mt-2020-6462337 !
+2025-10-06 02:46:57,042 - INFO -      Status là 1
+2025-10-06 02:46:59,085 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-suzuki-ertiga-gl-1.5-mt-2020-6462337
+2025-10-06 02:46:59,845 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-rx-350-premium-2023-6455407
+2025-10-06 02:47:32,568 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-rx-350-premium-2023-6455407 !
+2025-10-06 02:47:32,572 - INFO -      Status là 1
+2025-10-06 02:47:34,607 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-rx-350-premium-2023-6455407
+2025-10-06 02:47:35,225 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-tucson-2.0-at-dac-biet-2021-6458393
+2025-10-06 02:47:53,091 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-tucson-2.0-at-dac-biet-2021-6458393 !
+2025-10-06 02:47:53,092 - INFO -      Status là 1
+2025-10-06 02:47:55,127 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-tucson-2.0-at-dac-biet-2021-6458393
+2025-10-06 02:47:55,923 - INFO - Đang thử truy cập https://bonbanh.com/xe-mg-5-1.5-mt-2025-6424039
+2025-10-06 02:48:16,477 - INFO -      Truy cập thành công https://bonbanh.com/xe-mg-5-1.5-mt-2025-6424039 !
+2025-10-06 02:48:16,478 - INFO -      Status là 1
+2025-10-06 02:48:18,510 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mg-5-1.5-mt-2025-6424039
+2025-10-06 02:48:19,095 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-cx8-premium-awd-2022-6396059
+2025-10-06 02:48:28,723 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-cx8-premium-awd-2022-6396059 !
+2025-10-06 02:48:28,724 - INFO -      Status là 1
+2025-10-06 02:48:30,756 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-cx8-premium-awd-2022-6396059
+2025-10-06 02:48:31,348 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-morning-luxury-2019-6446106
+2025-10-06 02:48:43,104 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-morning-luxury-2019-6446106 !
+2025-10-06 02:48:43,106 - INFO -      Status là 1
+2025-10-06 02:48:45,142 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-morning-luxury-2019-6446106
+2025-10-06 02:48:45,754 - INFO - Đang thử truy cập https://bonbanh.com/xe-mg-zs-standard-1.5-at-2wd-2022-6414988
+2025-10-06 02:49:03,923 - INFO -      Truy cập thành công https://bonbanh.com/xe-mg-zs-standard-1.5-at-2wd-2022-6414988 !
+2025-10-06 02:49:03,925 - INFO -      Status là 1
+2025-10-06 02:49:05,965 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mg-zs-standard-1.5-at-2wd-2022-6414988
+2025-10-06 02:49:06,670 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:49:06,671 - INFO - ĐANG CẠO LINK ROW 3680 đến 3689
+2025-10-06 02:49:07,239 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-sedona-2.2-dat-luxury-2019-6446944
+2025-10-06 02:49:16,239 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-sedona-2.2-dat-luxury-2019-6446944 !
+2025-10-06 02:49:16,240 - INFO -      Status là 1
+2025-10-06 02:49:18,321 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-sedona-2.2-dat-luxury-2019-6446944
+2025-10-06 02:49:18,979 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-sonet-premium-1.5-at-2023-6424631
+2025-10-06 02:49:28,300 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-sonet-premium-1.5-at-2023-6424631 !
+2025-10-06 02:49:28,302 - INFO -      Status là 1
+2025-10-06 02:49:30,342 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-sonet-premium-1.5-at-2023-6424631
+2025-10-06 02:49:31,115 - INFO - Đang thử truy cập https://bonbanh.com/xe-volkswagen-t-cross-elegance-1.0-at-2022-6436040
+2025-10-06 02:49:58,592 - INFO -      Truy cập thành công https://bonbanh.com/xe-volkswagen-t-cross-elegance-1.0-at-2022-6436040 !
+2025-10-06 02:49:58,593 - INFO -      Status là 1
+2025-10-06 02:50:00,628 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-volkswagen-t-cross-elegance-1.0-at-2022-6436040
+2025-10-06 02:50:01,253 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-everest-titanium-plus-2.0l-4x4-at-2022-6433674
+2025-10-06 02:50:10,786 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-everest-titanium-plus-2.0l-4x4-at-2022-6433674 !
+2025-10-06 02:50:10,789 - INFO -      Status là 1
+2025-10-06 02:50:12,832 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-everest-titanium-plus-2.0l-4x4-at-2022-6433674
+2025-10-06 02:50:13,600 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2020-6360784
+2025-10-06 02:50:36,480 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2020-6360784 !
+2025-10-06 02:50:36,488 - INFO -      Status là 1
+2025-10-06 02:50:38,534 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2020-6360784
+2025-10-06 02:50:39,197 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-lux_a_2.0-tieu-chuan-2022-6424545
+2025-10-06 02:50:52,977 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-lux_a_2.0-tieu-chuan-2022-6424545 !
+2025-10-06 02:50:52,979 - INFO -      Status là 1
+2025-10-06 02:50:55,012 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-lux_a_2.0-tieu-chuan-2022-6424545
+2025-10-06 02:50:55,637 - INFO - Đang thử truy cập https://bonbanh.com/xe-nissan-teana-2.0-at-2009-6373170
+2025-10-06 02:51:10,451 - INFO -      Truy cập thành công https://bonbanh.com/xe-nissan-teana-2.0-at-2009-6373170 !
+2025-10-06 02:51:10,456 - INFO -      Status là 1
+2025-10-06 02:51:12,494 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-nissan-teana-2.0-at-2009-6373170
+2025-10-06 02:51:13,288 - INFO - Đang thử truy cập https://bonbanh.com/xe-peugeot-5008-1.6-at-2018-6453138
+2025-10-06 02:51:38,004 - INFO -      Truy cập thành công https://bonbanh.com/xe-peugeot-5008-1.6-at-2018-6453138 !
+2025-10-06 02:51:38,006 - INFO -      Status là 1
+2025-10-06 02:51:40,041 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-peugeot-5008-1.6-at-2018-6453138
+2025-10-06 02:51:40,795 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-lx-600-urban-2025-5485705
+2025-10-06 02:51:48,936 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-lx-600-urban-2025-5485705 !
+2025-10-06 02:51:48,939 - INFO -      Status là 1
+2025-10-06 02:51:50,990 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-lx-600-urban-2025-5485705
+2025-10-06 02:51:51,754 - INFO - Đang thử truy cập https://bonbanh.com/xe-honda-crv-l-2025-6461195
+2025-10-06 02:52:06,204 - INFO -      Truy cập thành công https://bonbanh.com/xe-honda-crv-l-2025-6461195 !
+2025-10-06 02:52:06,208 - INFO -      Status là 1
+2025-10-06 02:52:08,243 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-honda-crv-l-2025-6461195
+2025-10-06 02:52:08,941 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:52:08,944 - INFO - ĐANG CẠO LINK ROW 3690 đến 3699
+2025-10-06 02:52:09,525 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf5-plus-2025-6387248
+2025-10-06 02:52:18,613 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf5-plus-2025-6387248 !
+2025-10-06 02:52:18,615 - INFO -      Status là 1
+2025-10-06 02:52:20,697 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf5-plus-2025-6387248
+2025-10-06 02:52:21,333 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-x3-sdrive20i-m-sport-2024-5857854
+2025-10-06 02:52:31,607 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-x3-sdrive20i-m-sport-2024-5857854 !
+2025-10-06 02:52:31,611 - INFO -      Status là 1
+2025-10-06 02:52:33,659 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-x3-sdrive20i-m-sport-2024-5857854
+2025-10-06 02:52:34,267 - INFO - Đang thử truy cập https://bonbanh.com/xe-mg-g50-1.5-mt-com-2025-6456836
+2025-10-06 02:52:42,260 - INFO -      Truy cập thành công https://bonbanh.com/xe-mg-g50-1.5-mt-com-2025-6456836 !
+2025-10-06 02:52:42,262 - INFO -      Status là 1
+2025-10-06 02:52:44,299 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mg-g50-1.5-mt-com-2025-6456836
+2025-10-06 02:52:45,015 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-alphard-executive-lounge-2019-6422536
+2025-10-06 02:52:59,702 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-alphard-executive-lounge-2019-6422536 !
+2025-10-06 02:52:59,706 - INFO -      Status là 1
+2025-10-06 02:53:01,743 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-alphard-executive-lounge-2019-6422536
+2025-10-06 02:53:02,552 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-vios-1.5g-2016-6278873
+2025-10-06 02:53:11,451 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-vios-1.5g-2016-6278873 !
+2025-10-06 02:53:11,452 - INFO -      Status là 1
+2025-10-06 02:53:13,495 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-vios-1.5g-2016-6278873
+2025-10-06 02:53:14,309 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-raptor-2.0l-4x4-at-2021-6443499
+2025-10-06 02:53:23,827 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-raptor-2.0l-4x4-at-2021-6443499 !
+2025-10-06 02:53:23,828 - INFO -      Status là 1
+2025-10-06 02:53:25,864 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-raptor-2.0l-4x4-at-2021-6443499
+2025-10-06 02:53:26,458 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-seltos-premium-1.5-at-2024-6268980
+2025-10-06 02:53:35,497 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-seltos-premium-1.5-at-2024-6268980 !
+2025-10-06 02:53:35,499 - INFO -      Status là 1
+2025-10-06 02:53:37,535 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-seltos-premium-1.5-at-2024-6268980
+2025-10-06 02:53:38,187 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-carnival-signature-2.2d-2022-6462252
+2025-10-06 02:53:45,574 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-carnival-signature-2.2d-2022-6462252 !
+2025-10-06 02:53:45,577 - INFO -      Status là 1
+2025-10-06 02:53:47,626 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-carnival-signature-2.2d-2022-6462252
+2025-10-06 02:53:48,505 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf9-eco-2025-6443239
+2025-10-06 02:54:02,011 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf9-eco-2025-6443239 !
+2025-10-06 02:54:02,014 - INFO -      Status là 1
+2025-10-06 02:54:04,046 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf9-eco-2025-6443239
+2025-10-06 02:54:04,643 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-lux_sa_2.0-plus-2.0-at-2020-6361446
+2025-10-06 02:54:16,800 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-lux_sa_2.0-plus-2.0-at-2020-6361446 !
+2025-10-06 02:54:16,803 - INFO -      Status là 1
+2025-10-06 02:54:18,874 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-lux_sa_2.0-plus-2.0-at-2020-6361446
+2025-10-06 02:54:19,984 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:54:19,985 - INFO - ĐANG CẠO LINK ROW 3700 đến 3709
+2025-10-06 02:54:20,668 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-mt-2021-6447117
+2025-10-06 02:54:34,226 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-mt-2021-6447117 !
+2025-10-06 02:54:34,243 - INFO -      Status là 1
+2025-10-06 02:54:36,331 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-mt-2021-6447117
+2025-10-06 02:54:37,091 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-focus-titanium-1.5l-2017-6415362
+2025-10-06 02:54:57,674 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-focus-titanium-1.5l-2017-6415362 !
+2025-10-06 02:54:57,676 - INFO -      Status là 1
+2025-10-06 02:54:59,715 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-focus-titanium-1.5l-2017-6415362
+2025-10-06 02:55:00,417 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-santafe-calligraphy-2.5l-turbo-htrac-2025-6009062
+2025-10-06 02:55:10,114 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-santafe-calligraphy-2.5l-turbo-htrac-2025-6009062 !
+2025-10-06 02:55:10,117 - INFO -      Status là 1
+2025-10-06 02:55:12,152 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-santafe-calligraphy-2.5l-turbo-htrac-2025-6009062
+2025-10-06 02:55:12,746 - INFO - Đang thử truy cập https://bonbanh.com/xe-honda-civic-1.5l-vtec-turbo-2018-6376993
+2025-10-06 02:55:30,077 - INFO -      Truy cập thành công https://bonbanh.com/xe-honda-civic-1.5l-vtec-turbo-2018-6376993 !
+2025-10-06 02:55:30,079 - INFO -      Status là 1
+2025-10-06 02:55:32,117 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-honda-civic-1.5l-vtec-turbo-2018-6376993
+2025-10-06 02:55:32,892 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2020-6065258
+2025-10-06 02:55:39,077 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2020-6065258 !
+2025-10-06 02:55:39,078 - INFO -      Status là 1
+2025-10-06 02:55:41,111 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2020-6065258
+2025-10-06 02:55:41,709 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-c_class-c200-2015-6383486
+2025-10-06 02:56:04,196 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-c_class-c200-2015-6383486 !
+2025-10-06 02:56:04,204 - INFO -      Status là 1
+2025-10-06 02:56:06,269 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-c_class-c200-2015-6383486
+2025-10-06 02:56:07,542 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-yaris-1.3g-2015-6425611
+2025-10-06 02:56:16,874 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-yaris-1.3g-2015-6425611 !
+2025-10-06 02:56:16,876 - INFO -      Status là 1
+2025-10-06 02:56:18,907 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-yaris-1.3g-2015-6425611
+2025-10-06 02:56:19,750 - INFO - Đang thử truy cập https://bonbanh.com/xe-landrover-defender-130-hse-p400-3.0-at-2023-6417747
+2025-10-06 02:56:30,901 - INFO -      Truy cập thành công https://bonbanh.com/xe-landrover-defender-130-hse-p400-3.0-at-2023-6417747 !
+2025-10-06 02:56:30,903 - INFO -      Status là 1
+2025-10-06 02:56:32,942 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-landrover-defender-130-hse-p400-3.0-at-2023-6417747
+2025-10-06 02:56:33,594 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glb-35-4matic-2021-6443142
+2025-10-06 02:56:44,989 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glb-35-4matic-2021-6443142 !
+2025-10-06 02:56:44,990 - INFO -      Status là 1
+2025-10-06 02:56:47,022 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glb-35-4matic-2021-6443142
+2025-10-06 02:56:47,673 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-200-2022-6444015
+2025-10-06 02:57:06,530 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-200-2022-6444015 !
+2025-10-06 02:57:06,531 - INFO -      Status là 1
+2025-10-06 02:57:08,565 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-200-2022-6444015
+2025-10-06 02:57:09,266 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 02:57:09,268 - INFO - ĐANG CẠO LINK ROW 3710 đến 3719
+2025-10-06 02:57:09,837 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-corolla_cross-1.8v-2025-6154624
+2025-10-06 02:57:24,389 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-corolla_cross-1.8v-2025-6154624 !
+2025-10-06 02:57:24,394 - INFO -      Status là 1
+2025-10-06 02:57:26,449 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-corolla_cross-1.8v-2025-6154624
+2025-10-06 02:57:27,100 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.5l-htrac-2024-6462250
+2025-10-06 02:57:40,563 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.5l-htrac-2024-6462250 !
+2025-10-06 02:57:40,567 - INFO -      Status là 1
+2025-10-06 02:57:42,600 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.5l-htrac-2024-6462250
+2025-10-06 02:57:43,280 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-c_class-c300-amg-2019-6379102
+2025-10-06 02:58:05,533 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-c_class-c300-amg-2019-6379102 !
+2025-10-06 02:58:05,537 - INFO -      Status là 1
+2025-10-06 02:58:07,582 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-c_class-c300-amg-2019-6379102
+2025-10-06 02:58:08,445 - INFO - Đang thử truy cập https://bonbanh.com/xe-porsche-macan-2.0-2021-6450868
+2025-10-06 02:58:22,484 - INFO -      Truy cập thành công https://bonbanh.com/xe-porsche-macan-2.0-2021-6450868 !
+2025-10-06 02:58:22,488 - INFO -      Status là 1
+2025-10-06 02:58:24,531 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-porsche-macan-2.0-2021-6450868
+2025-10-06 02:58:25,361 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-200-2022-6454443
+2025-10-06 02:58:50,388 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-200-2022-6454443 !
+2025-10-06 02:58:50,389 - INFO -      Status là 1
+2025-10-06 02:58:52,438 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-200-2022-6454443
+2025-10-06 02:58:53,148 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-x1-sdrive18i-2018-6306087
+2025-10-06 02:58:59,145 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-x1-sdrive18i-2018-6306087 !
+2025-10-06 02:58:59,147 - INFO -      Status là 1
+2025-10-06 02:59:01,209 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-x1-sdrive18i-2018-6306087
+2025-10-06 02:59:01,989 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-corolla_altis-1.8g-at-2020-6458627
+2025-10-06 02:59:10,846 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-corolla_altis-1.8g-at-2020-6458627 !
+2025-10-06 02:59:10,852 - INFO -      Status là 1
+2025-10-06 02:59:12,893 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-corolla_altis-1.8g-at-2020-6458627
+2025-10-06 02:59:13,527 - INFO - Đang thử truy cập https://bonbanh.com/xe-mini-cooper-jcw-3dr-2020-6413438
+2025-10-06 02:59:44,772 - INFO -      Truy cập thành công https://bonbanh.com/xe-mini-cooper-jcw-3dr-2020-6413438 !
+2025-10-06 02:59:44,776 - INFO -      Status là 1
+2025-10-06 02:59:46,815 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mini-cooper-jcw-3dr-2020-6413438
+2025-10-06 02:59:47,455 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-carnival-signature-2.2d-2022-6401937
+2025-10-06 02:59:53,864 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-carnival-signature-2.2d-2022-6401937 !
+2025-10-06 02:59:53,866 - INFO -      Status là 1
+2025-10-06 02:59:55,900 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-carnival-signature-2.2d-2022-6401937
+2025-10-06 02:59:56,542 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-sorento-gat-2017-6267905
+2025-10-06 03:00:06,941 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-sorento-gat-2017-6267905 !
+2025-10-06 03:00:06,945 - INFO -      Status là 1
+2025-10-06 03:00:08,989 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-sorento-gat-2017-6267905
+2025-10-06 03:00:09,727 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:00:09,728 - INFO - ĐANG CẠO LINK ROW 3720 đến 3729
+2025-10-06 03:00:10,433 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-s_class-s450-2021-6248200
+2025-10-06 03:00:31,456 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-s_class-s450-2021-6248200 !
+2025-10-06 03:00:31,458 - INFO -      Status là 1
+2025-10-06 03:00:33,565 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-s_class-s450-2021-6248200
+2025-10-06 03:00:34,419 - INFO - Đang thử truy cập https://bonbanh.com/xe-iveco-hongyan-2016-6404585
+2025-10-06 03:00:53,547 - INFO -      Truy cập thành công https://bonbanh.com/xe-iveco-hongyan-2016-6404585 !
+2025-10-06 03:00:53,551 - INFO -      Status là 1
+2025-10-06 03:00:55,590 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-iveco-hongyan-2016-6404585
+2025-10-06 03:00:56,206 - INFO - Đang thử truy cập https://bonbanh.com/xe-renault-arkana-1.6-at-2019-6277191
+2025-10-06 03:01:08,399 - INFO -      Truy cập thành công https://bonbanh.com/xe-renault-arkana-1.6-at-2019-6277191 !
+2025-10-06 03:01:08,402 - INFO -      Status là 1
+2025-10-06 03:01:10,433 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-renault-arkana-1.6-at-2019-6277191
+2025-10-06 03:01:11,103 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-sport-2.0l-4x4-at-2025-6273015
+2025-10-06 03:01:28,703 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-sport-2.0l-4x4-at-2025-6273015 !
+2025-10-06 03:01:28,704 - INFO -      Status là 1
+2025-10-06 03:01:30,736 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-sport-2.0l-4x4-at-2025-6273015
+2025-10-06 03:01:31,301 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.2l-htrac-2022-6405214
+2025-10-06 03:01:40,482 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.2l-htrac-2022-6405214 !
+2025-10-06 03:01:40,487 - INFO -      Status là 1
+2025-10-06 03:01:42,519 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.2l-htrac-2022-6405214
+2025-10-06 03:01:43,139 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-accent-cao-cap-1.5-at-2024-6457677
+2025-10-06 03:02:21,915 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-accent-cao-cap-1.5-at-2024-6457677 !
+2025-10-06 03:02:21,922 - INFO -      Status là 1
+2025-10-06 03:02:23,958 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-accent-cao-cap-1.5-at-2024-6457677
+2025-10-06 03:02:24,572 - INFO - Đang thử truy cập https://bonbanh.com/xe-porsche-panamera-4-2022-6427710
+2025-10-06 03:02:59,729 - INFO -      Truy cập thành công https://bonbanh.com/xe-porsche-panamera-4-2022-6427710 !
+2025-10-06 03:02:59,731 - INFO -      Status là 1
+2025-10-06 03:03:01,768 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-porsche-panamera-4-2022-6427710
+2025-10-06 03:03:02,976 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-maybach-s450-4matic-2020-6447934
+2025-10-06 03:03:08,393 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-maybach-s450-4matic-2020-6447934 !
+2025-10-06 03:03:08,395 - INFO -      Status là 1
+2025-10-06 03:03:10,427 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-maybach-s450-4matic-2020-6447934
+2025-10-06 03:03:11,089 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-fortuner-2.4g-4x2-at-2019-6415505
+2025-10-06 03:03:33,317 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-fortuner-2.4g-4x2-at-2019-6415505 !
+2025-10-06 03:03:33,319 - INFO -      Status là 1
+2025-10-06 03:03:35,359 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-fortuner-2.4g-4x2-at-2019-6415505
+2025-10-06 03:03:36,153 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-i10-grand-1.0-at-2014-6420690
+2025-10-06 03:03:41,056 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-i10-grand-1.0-at-2014-6420690 !
+2025-10-06 03:03:41,057 - INFO -      Status là 1
+2025-10-06 03:03:43,091 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-i10-grand-1.0-at-2014-6420690
+2025-10-06 03:03:43,804 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:03:43,805 - INFO - ĐANG CẠO LINK ROW 3730 đến 3739
+2025-10-06 03:03:44,363 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-corolla_altis-1.8g-at-2012-6352564
+2025-10-06 03:03:52,783 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-corolla_altis-1.8g-at-2012-6352564 !
+2025-10-06 03:03:52,787 - INFO -      Status là 1
+2025-10-06 03:03:54,837 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-corolla_altis-1.8g-at-2012-6352564
+2025-10-06 03:03:55,541 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2025-6169541
+2025-10-06 03:04:08,712 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2025-6169541 !
+2025-10-06 03:04:08,715 - INFO -      Status là 1
+2025-10-06 03:04:10,747 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2025-6169541
+2025-10-06 03:04:11,335 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-corolla_cross-1.8v-2025-6427360
+2025-10-06 03:04:52,929 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-corolla_cross-1.8v-2025-6427360 !
+2025-10-06 03:04:52,932 - INFO -      Status là 1
+2025-10-06 03:04:54,965 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-corolla_cross-1.8v-2025-6427360
+2025-10-06 03:04:55,544 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-santafe-prestige-2.5l-htrac-2025-6380900
+2025-10-06 03:05:02,075 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-santafe-prestige-2.5l-htrac-2025-6380900 !
+2025-10-06 03:05:02,077 - INFO -      Status là 1
+2025-10-06 03:05:04,138 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-santafe-prestige-2.5l-htrac-2025-6380900
+2025-10-06 03:05:05,427 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-cx5-2.5-at-awd-2016-6022898
+2025-10-06 03:05:16,879 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-cx5-2.5-at-awd-2016-6022898 !
+2025-10-06 03:05:16,881 - INFO -      Status là 1
+2025-10-06 03:05:18,917 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-cx5-2.5-at-awd-2016-6022898
+2025-10-06 03:05:19,532 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-rx-300-2021-6182334
+2025-10-06 03:05:30,917 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-rx-300-2021-6182334 !
+2025-10-06 03:05:30,919 - INFO -      Status là 1
+2025-10-06 03:05:32,952 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-rx-300-2021-6182334
+2025-10-06 03:05:33,605 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-lx-600-urban-2025-6107449
+2025-10-06 03:05:42,322 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-lx-600-urban-2025-6107449 !
+2025-10-06 03:05:42,325 - INFO -      Status là 1
+2025-10-06 03:05:44,359 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-lx-600-urban-2025-6107449
+2025-10-06 03:05:44,936 - INFO - Đang thử truy cập https://bonbanh.com/xe-chevrolet-trailblazer-ltz-2.5l-vgt-4x4-at-2018-6379199
+2025-10-06 03:06:04,816 - INFO -      Truy cập thành công https://bonbanh.com/xe-chevrolet-trailblazer-ltz-2.5l-vgt-4x4-at-2018-6379199 !
+2025-10-06 03:06:04,823 - INFO -      Status là 1
+2025-10-06 03:06:06,867 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-chevrolet-trailblazer-ltz-2.5l-vgt-4x4-at-2018-6379199
+2025-10-06 03:06:07,639 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-land_cruiser-vx-4.6-v8-2019-6262294
+2025-10-06 03:06:29,331 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-land_cruiser-vx-4.6-v8-2019-6262294 !
+2025-10-06 03:06:29,332 - INFO -      Status là 1
+2025-10-06 03:06:31,364 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-land_cruiser-vx-4.6-v8-2019-6262294
+2025-10-06 03:06:32,059 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-nx-300-2017-6424385
+2025-10-06 03:06:37,084 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-nx-300-2017-6424385 !
+2025-10-06 03:06:37,087 - INFO -      Status là 1
+2025-10-06 03:06:39,131 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-nx-300-2017-6424385
+2025-10-06 03:06:39,983 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:06:39,984 - INFO - ĐANG CẠO LINK ROW 3740 đến 3749
+2025-10-06 03:06:40,629 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-fadil-1.4-at-plus-2021-6251892
+2025-10-06 03:06:47,082 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-fadil-1.4-at-plus-2021-6251892 !
+2025-10-06 03:06:47,084 - INFO -      Status là 1
+2025-10-06 03:06:49,168 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-fadil-1.4-at-plus-2021-6251892
+2025-10-06 03:06:50,097 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-everest-titanium-3.2l-4x4-at-2018-6437177
+2025-10-06 03:06:58,059 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-everest-titanium-3.2l-4x4-at-2018-6437177 !
+2025-10-06 03:06:58,061 - INFO -      Status là 1
+2025-10-06 03:07:00,094 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-everest-titanium-3.2l-4x4-at-2018-6437177
+2025-10-06 03:07:00,716 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-rx-450h-2010-6449878
+2025-10-06 03:07:09,353 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-rx-450h-2010-6449878 !
+2025-10-06 03:07:09,356 - INFO -      Status là 1
+2025-10-06 03:07:11,404 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-rx-450h-2010-6449878
+2025-10-06 03:07:12,600 - INFO - Đang thử truy cập https://bonbanh.com/xe-landrover-range_rover-hse-3.0-2014-6249479
+2025-10-06 03:07:43,288 - INFO -      Truy cập thành công https://bonbanh.com/xe-landrover-range_rover-hse-3.0-2014-6249479 !
+2025-10-06 03:07:43,289 - INFO -      Status là 1
+2025-10-06 03:07:45,332 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-landrover-range_rover-hse-3.0-2014-6249479
+2025-10-06 03:07:46,121 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-s_class-s400l-2015-6426001
+2025-10-06 03:08:26,863 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-s_class-s400l-2015-6426001 !
+2025-10-06 03:08:26,866 - INFO -      Status là 1
+2025-10-06 03:08:28,902 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-s_class-s400l-2015-6426001
+2025-10-06 03:08:29,577 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-yaris-1.3-at-2009-6444163
+2025-10-06 03:09:02,641 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-yaris-1.3-at-2009-6444163 !
+2025-10-06 03:09:02,643 - INFO -      Status là 1
+2025-10-06 03:09:04,679 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-yaris-1.3-at-2009-6444163
+2025-10-06 03:09:05,301 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-200-4matic-2025-6030154
+2025-10-06 03:09:22,392 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-200-4matic-2025-6030154 !
+2025-10-06 03:09:22,398 - INFO -      Status là 1
+2025-10-06 03:09:24,441 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-200-4matic-2025-6030154
+2025-10-06 03:09:25,060 - INFO - Đang thử truy cập https://bonbanh.com/xe-mitsubishi-outlander-2.4-cvt-premium-2019-6462345
+2025-10-06 03:09:31,607 - INFO -      Truy cập thành công https://bonbanh.com/xe-mitsubishi-outlander-2.4-cvt-premium-2019-6462345 !
+2025-10-06 03:09:31,610 - INFO -      Status là 1
+2025-10-06 03:09:33,648 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mitsubishi-outlander-2.4-cvt-premium-2019-6462345
+2025-10-06 03:09:34,278 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-stormtrak-2.0l-4x4-at-2025-6371102
+2025-10-06 03:09:44,616 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-stormtrak-2.0l-4x4-at-2025-6371102 !
+2025-10-06 03:09:44,618 - INFO -      Status là 1
+2025-10-06 03:09:46,657 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-stormtrak-2.0l-4x4-at-2025-6371102
+2025-10-06 03:09:47,248 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-morning-1.0-at-2013-6408922
+2025-10-06 03:10:20,830 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-morning-1.0-at-2013-6408922 !
+2025-10-06 03:10:20,837 - INFO -      Status là 1
+2025-10-06 03:10:22,882 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-morning-1.0-at-2013-6408922
+2025-10-06 03:10:23,694 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:10:23,695 - INFO - ĐANG CẠO LINK ROW 3750 đến 3759
+2025-10-06 03:10:24,438 - INFO - Đang thử truy cập https://bonbanh.com/xe-nissan-terra-e-2.5-at-2wd-2019-6445509
+2025-10-06 03:10:35,198 - INFO -      Truy cập thành công https://bonbanh.com/xe-nissan-terra-e-2.5-at-2wd-2019-6445509 !
+2025-10-06 03:10:35,200 - INFO -      Status là 1
+2025-10-06 03:10:37,304 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-nissan-terra-e-2.5-at-2wd-2019-6445509
+2025-10-06 03:10:39,031 - INFO - Đang thử truy cập https://bonbanh.com/xe-nissan-qashqai-le-awd-2011-6455332
+2025-10-06 03:10:45,312 - INFO -      Truy cập thành công https://bonbanh.com/xe-nissan-qashqai-le-awd-2011-6455332 !
+2025-10-06 03:10:45,316 - INFO -      Status là 1
+2025-10-06 03:10:47,347 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-nissan-qashqai-le-awd-2011-6455332
+2025-10-06 03:10:47,983 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-g_class-g63-amg-2021-6366148
+2025-10-06 03:11:02,765 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-g_class-g63-amg-2021-6366148 !
+2025-10-06 03:11:02,767 - INFO -      Status là 1
+2025-10-06 03:11:04,800 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-g_class-g63-amg-2021-6366148
+2025-10-06 03:11:05,516 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-200-4matic-2022-6442558
+2025-10-06 03:11:12,218 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-200-4matic-2022-6442558 !
+2025-10-06 03:11:12,220 - INFO -      Status là 1
+2025-10-06 03:11:14,262 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-200-4matic-2022-6442558
+2025-10-06 03:11:15,042 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-fortuner-legender-2.4l-4x2-at-2022-6462274
+2025-10-06 03:11:32,685 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-fortuner-legender-2.4l-4x2-at-2022-6462274 !
+2025-10-06 03:11:32,687 - INFO -      Status là 1
+2025-10-06 03:11:34,753 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-fortuner-legender-2.4l-4x2-at-2022-6462274
+2025-10-06 03:11:35,422 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-fadil-1.4-at-2021-6462240
+2025-10-06 03:11:39,639 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-fadil-1.4-at-2021-6462240 !
+2025-10-06 03:11:39,644 - INFO -      Status là 1
+2025-10-06 03:11:41,677 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-fadil-1.4-at-2021-6462240
+2025-10-06 03:11:42,311 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-cx5-2.5-at-awd-2017-6449506
+2025-10-06 03:11:56,665 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-cx5-2.5-at-awd-2017-6449506 !
+2025-10-06 03:11:56,666 - INFO -      Status là 1
+2025-10-06 03:11:58,707 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-cx5-2.5-at-awd-2017-6449506
+2025-10-06 03:11:59,479 - INFO - Đang thử truy cập https://bonbanh.com/xe-teraco-tera-v-1.5-mt-2024-6436992
+2025-10-06 03:12:09,552 - INFO -      Truy cập thành công https://bonbanh.com/xe-teraco-tera-v-1.5-mt-2024-6436992 !
+2025-10-06 03:12:09,557 - INFO -      Status là 1
+2025-10-06 03:12:11,591 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-teraco-tera-v-1.5-mt-2024-6436992
+2025-10-06 03:12:12,224 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-e_class-e300-amg-2025-6141590
+2025-10-06 03:12:32,149 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-e_class-e300-amg-2025-6141590 !
+2025-10-06 03:12:32,157 - INFO -      Status là 1
+2025-10-06 03:12:34,202 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-e_class-e300-amg-2025-6141590
+2025-10-06 03:12:34,797 - INFO - Đang thử truy cập https://bonbanh.com/xe-volkswagen-scirocco-2.0-at-2010-6462258
+2025-10-06 03:13:00,957 - INFO -      Truy cập thành công https://bonbanh.com/xe-volkswagen-scirocco-2.0-at-2010-6462258 !
+2025-10-06 03:13:00,960 - INFO -      Status là 1
+2025-10-06 03:13:02,998 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-volkswagen-scirocco-2.0-at-2010-6462258
+2025-10-06 03:13:03,675 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:13:03,676 - INFO - ĐANG CẠO LINK ROW 3760 đến 3769
+2025-10-06 03:13:04,262 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-sportage-premium-2.0g-2022-6353802
+2025-10-06 03:13:11,552 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-sportage-premium-2.0g-2022-6353802 !
+2025-10-06 03:13:11,554 - INFO -      Status là 1
+2025-10-06 03:13:13,601 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-sportage-premium-2.0g-2022-6353802
+2025-10-06 03:13:14,267 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-xls-2.0l-4x2-at-2025-6371098
+2025-10-06 03:13:27,657 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-xls-2.0l-4x2-at-2025-6371098 !
+2025-10-06 03:13:27,658 - INFO -      Status là 1
+2025-10-06 03:13:29,717 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-xls-2.0l-4x2-at-2025-6371098
+2025-10-06 03:13:30,459 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-c_class-c300-amg-2020-6335874
+2025-10-06 03:13:39,050 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-c_class-c300-amg-2020-6335874 !
+2025-10-06 03:13:39,052 - INFO -      Status là 1
+2025-10-06 03:13:41,089 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-c_class-c300-amg-2020-6335874
+2025-10-06 03:13:41,753 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-explorer-limited-2.3l-ecoboost-2019-6269501
+2025-10-06 03:14:06,599 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-explorer-limited-2.3l-ecoboost-2019-6269501 !
+2025-10-06 03:14:06,603 - INFO -      Status là 1
+2025-10-06 03:14:08,668 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-explorer-limited-2.3l-ecoboost-2019-6269501
+2025-10-06 03:14:09,519 - INFO - Đang thử truy cập https://bonbanh.com/xe-mitsubishi-xpander-premium-1.5-at-2023-6445192
+2025-10-06 03:14:24,850 - INFO -      Truy cập thành công https://bonbanh.com/xe-mitsubishi-xpander-premium-1.5-at-2023-6445192 !
+2025-10-06 03:14:24,854 - INFO -      Status là 1
+2025-10-06 03:14:26,887 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mitsubishi-xpander-premium-1.5-at-2023-6445192
+2025-10-06 03:14:27,529 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-focus-1.8-mt-2009-6417115
+2025-10-06 03:15:16,499 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-focus-1.8-mt-2009-6417115 !
+2025-10-06 03:15:16,501 - INFO -      Status là 1
+2025-10-06 03:15:18,539 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-focus-1.8-mt-2009-6417115
+2025-10-06 03:15:19,159 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-c_class-c200-2018-6425689
+2025-10-06 03:15:39,103 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-c_class-c200-2018-6425689 !
+2025-10-06 03:15:39,105 - INFO -      Status là 1
+2025-10-06 03:15:41,143 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-c_class-c200-2018-6425689
+2025-10-06 03:15:41,831 - INFO - Đang thử truy cập https://bonbanh.com/xe-mg-g50-1.5-mt-com-2025-6456833
+2025-10-06 03:15:50,511 - INFO -      Truy cập thành công https://bonbanh.com/xe-mg-g50-1.5-mt-com-2025-6456833 !
+2025-10-06 03:15:50,516 - INFO -      Status là 1
+2025-10-06 03:15:52,557 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mg-g50-1.5-mt-com-2025-6456833
+2025-10-06 03:15:53,355 - INFO - Đang thử truy cập https://bonbanh.com/xe-peugeot-3008-1.6-at-2018-6378731
+2025-10-06 03:16:13,740 - INFO -      Truy cập thành công https://bonbanh.com/xe-peugeot-3008-1.6-at-2018-6378731 !
+2025-10-06 03:16:13,744 - INFO -      Status là 1
+2025-10-06 03:16:15,777 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-peugeot-3008-1.6-at-2018-6378731
+2025-10-06 03:16:16,431 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-fortuner-2.4l-4x2-at-2024-6442520
+2025-10-06 03:16:39,509 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-fortuner-2.4l-4x2-at-2024-6442520 !
+2025-10-06 03:16:39,516 - INFO -      Status là 1
+2025-10-06 03:16:41,551 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-fortuner-2.4l-4x2-at-2024-6442520
+2025-10-06 03:16:42,325 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:16:42,326 - INFO - ĐANG CẠO LINK ROW 3770 đến 3779
+2025-10-06 03:16:42,903 - INFO - Đang thử truy cập https://bonbanh.com/xe-volvo-xc60-ultra-b6-awd-2025-6425093
+2025-10-06 03:17:29,849 - INFO -      Truy cập thành công https://bonbanh.com/xe-volvo-xc60-ultra-b6-awd-2025-6425093 !
+2025-10-06 03:17:29,851 - INFO -      Status là 1
+2025-10-06 03:17:31,975 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-volvo-xc60-ultra-b6-awd-2025-6425093
+2025-10-06 03:17:33,190 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-santafe-dac-biet-2.5l-htrac-2022-6417102
+2025-10-06 03:18:08,286 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-santafe-dac-biet-2.5l-htrac-2022-6417102 !
+2025-10-06 03:18:08,292 - INFO -      Status là 1
+2025-10-06 03:18:10,356 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-santafe-dac-biet-2.5l-htrac-2022-6417102
+2025-10-06 03:18:11,183 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-limo-green-at-2025-6168735
+2025-10-06 03:18:33,631 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-limo-green-at-2025-6168735 !
+2025-10-06 03:18:33,633 - INFO -      Status là 1
+2025-10-06 03:18:35,671 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-limo-green-at-2025-6168735
+2025-10-06 03:18:36,444 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-everest-ambiente-2.0-4x2-at-2018-6401170
+2025-10-06 03:19:13,194 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-everest-ambiente-2.0-4x2-at-2018-6401170 !
+2025-10-06 03:19:13,197 - INFO -      Status là 1
+2025-10-06 03:19:15,246 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-everest-ambiente-2.0-4x2-at-2018-6401170
+2025-10-06 03:19:16,050 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2025-6436991
+2025-10-06 03:19:36,900 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2025-6436991 !
+2025-10-06 03:19:36,902 - INFO -      Status là 1
+2025-10-06 03:19:38,939 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2025-6436991
+2025-10-06 03:19:39,601 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-corolla_altis-2.0v-2014-6346964
+2025-10-06 03:20:02,499 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-corolla_altis-2.0v-2014-6346964 !
+2025-10-06 03:20:02,501 - INFO -      Status là 1
+2025-10-06 03:20:04,542 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-corolla_altis-2.0v-2014-6346964
+2025-10-06 03:20:05,354 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf5-plus-2025-6396868
+2025-10-06 03:20:16,631 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf5-plus-2025-6396868 !
+2025-10-06 03:20:16,633 - INFO -      Status là 1
+2025-10-06 03:20:18,685 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf5-plus-2025-6396868
+2025-10-06 03:20:19,442 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-i10-1.2-at-2024-6398278
+2025-10-06 03:20:27,320 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-i10-1.2-at-2024-6398278 !
+2025-10-06 03:20:27,327 - INFO -      Status là 1
+2025-10-06 03:20:29,366 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-i10-1.2-at-2024-6398278
+2025-10-06 03:20:30,016 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-bt50-2.2l-4x4-mt-2018-6436242
+2025-10-06 03:20:38,612 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-bt50-2.2l-4x4-mt-2018-6436242 !
+2025-10-06 03:20:38,616 - INFO -      Status là 1
+2025-10-06 03:20:40,656 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-bt50-2.2l-4x4-mt-2018-6436242
+2025-10-06 03:20:41,322 - INFO - Đang thử truy cập https://bonbanh.com/xe-volvo-xc60-plug-in-hybrid-ultra-t8-awd-2025-4686031
+2025-10-06 03:20:53,075 - INFO -      Truy cập thành công https://bonbanh.com/xe-volvo-xc60-plug-in-hybrid-ultra-t8-awd-2025-4686031 !
+2025-10-06 03:20:53,077 - INFO -      Status là 1
+2025-10-06 03:20:55,115 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-volvo-xc60-plug-in-hybrid-ultra-t8-awd-2025-4686031
+2025-10-06 03:20:55,788 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:20:55,789 - INFO - ĐANG CẠO LINK ROW 3780 đến 3789
+2025-10-06 03:20:56,400 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-3-1.5-at-2016-6299109
+2025-10-06 03:21:07,928 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-3-1.5-at-2016-6299109 !
+2025-10-06 03:21:07,933 - INFO -      Status là 1
+2025-10-06 03:21:09,984 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-3-1.5-at-2016-6299109
+2025-10-06 03:21:10,675 - INFO - Đang thử truy cập https://bonbanh.com/xe-honda-crv-2.4-at---tg-2017-6422358
+2025-10-06 03:21:21,740 - INFO -      Truy cập thành công https://bonbanh.com/xe-honda-crv-2.4-at---tg-2017-6422358 !
+2025-10-06 03:21:21,745 - INFO -      Status là 1
+2025-10-06 03:21:23,781 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-honda-crv-2.4-at---tg-2017-6422358
+2025-10-06 03:21:24,403 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-kona-2.0-at-2018-6328407
+2025-10-06 03:21:51,315 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-kona-2.0-at-2018-6328407 !
+2025-10-06 03:21:51,319 - INFO -      Status là 1
+2025-10-06 03:21:53,376 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-kona-2.0-at-2018-6328407
+2025-10-06 03:21:54,205 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-prado-vx-2.7l-2021-6340693
+2025-10-06 03:22:22,958 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-prado-vx-2.7l-2021-6340693 !
+2025-10-06 03:22:22,960 - INFO -      Status là 1
+2025-10-06 03:22:24,992 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-prado-vx-2.7l-2021-6340693
+2025-10-06 03:22:25,653 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-camry-2.5q-2023-6461723
+2025-10-06 03:22:33,941 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-camry-2.5q-2023-6461723 !
+2025-10-06 03:22:33,943 - INFO -      Status là 1
+2025-10-06 03:22:35,990 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-camry-2.5q-2023-6461723
+2025-10-06 03:22:36,796 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-veloz-cross-1.5-cvt-2022-6361977
+2025-10-06 03:23:03,592 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-veloz-cross-1.5-cvt-2022-6361977 !
+2025-10-06 03:23:03,595 - INFO -      Status là 1
+2025-10-06 03:23:05,632 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-veloz-cross-1.5-cvt-2022-6361977
+2025-10-06 03:23:06,520 - INFO - Đang thử truy cập https://bonbanh.com/xe-suzuki-swift-glx-1.2-at-2020-6378723
+2025-10-06 03:23:20,229 - INFO -      Truy cập thành công https://bonbanh.com/xe-suzuki-swift-glx-1.2-at-2020-6378723 !
+2025-10-06 03:23:20,232 - INFO -      Status là 1
+2025-10-06 03:23:22,301 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-suzuki-swift-glx-1.2-at-2020-6378723
+2025-10-06 03:23:23,630 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-vios-1.5g-2017-6397382
+2025-10-06 03:23:51,609 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-vios-1.5g-2017-6397382 !
+2025-10-06 03:23:51,611 - INFO -      Status là 1
+2025-10-06 03:23:53,646 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-vios-1.5g-2017-6397382
+2025-10-06 03:23:54,387 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-vios-gr-s-1.5-cvt-2021-6429580
+2025-10-06 03:24:14,468 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-vios-gr-s-1.5-cvt-2021-6429580 !
+2025-10-06 03:24:14,470 - INFO -      Status là 1
+2025-10-06 03:24:16,505 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-vios-gr-s-1.5-cvt-2021-6429580
+2025-10-06 03:24:17,188 - INFO - Đang thử truy cập https://bonbanh.com/xe-mg-hs-1.5t-del-2025-6462127
+2025-10-06 03:24:36,690 - INFO -      Truy cập thành công https://bonbanh.com/xe-mg-hs-1.5t-del-2025-6462127 !
+2025-10-06 03:24:36,692 - INFO -      Status là 1
+2025-10-06 03:24:38,730 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mg-hs-1.5t-del-2025-6462127
+2025-10-06 03:24:39,423 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:24:39,424 - INFO - ĐANG CẠO LINK ROW 3790 đến 3799
+2025-10-06 03:24:40,028 - INFO - Đang thử truy cập https://bonbanh.com/xe-landrover-range_rover-supercharged-lwb-5.0-2013-5614088
+2025-10-06 03:24:56,513 - INFO -      Truy cập thành công https://bonbanh.com/xe-landrover-range_rover-supercharged-lwb-5.0-2013-5614088 !
+2025-10-06 03:24:56,515 - INFO -      Status là 1
+2025-10-06 03:24:58,599 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-landrover-range_rover-supercharged-lwb-5.0-2013-5614088
+2025-10-06 03:24:59,301 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-c_class-c300-amg-2021-6424261
+2025-10-06 03:25:11,476 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-c_class-c300-amg-2021-6424261 !
+2025-10-06 03:25:11,481 - INFO -      Status là 1
+2025-10-06 03:25:13,515 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-c_class-c300-amg-2021-6424261
+2025-10-06 03:25:14,125 - INFO - Đang thử truy cập https://bonbanh.com/xe-nissan-x_trail-2.5-sv-4wd-2016-6367932
+2025-10-06 03:25:27,807 - INFO -      Truy cập thành công https://bonbanh.com/xe-nissan-x_trail-2.5-sv-4wd-2016-6367932 !
+2025-10-06 03:25:27,810 - INFO -      Status là 1
+2025-10-06 03:25:29,846 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-nissan-x_trail-2.5-sv-4wd-2016-6367932
+2025-10-06 03:25:30,490 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-bt50-2.2l-4x2-at-2017-6447800
+2025-10-06 03:25:37,087 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-bt50-2.2l-4x2-at-2017-6447800 !
+2025-10-06 03:25:37,091 - INFO -      Status là 1
+2025-10-06 03:25:39,131 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-bt50-2.2l-4x2-at-2017-6447800
+2025-10-06 03:25:39,939 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-kona-2.0-at-2019-6385607
+2025-10-06 03:25:55,045 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-kona-2.0-at-2019-6385607 !
+2025-10-06 03:25:55,047 - INFO -      Status là 1
+2025-10-06 03:25:57,085 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-kona-2.0-at-2019-6385607
+2025-10-06 03:25:57,875 - INFO - Đang thử truy cập https://bonbanh.com/xe-porsche-macan-2.0-2022-6253220
+2025-10-06 03:26:10,677 - INFO -      Truy cập thành công https://bonbanh.com/xe-porsche-macan-2.0-2022-6253220 !
+2025-10-06 03:26:10,680 - INFO -      Status là 1
+2025-10-06 03:26:12,715 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-porsche-macan-2.0-2022-6253220
+2025-10-06 03:26:13,409 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-land_cruiser-vx-4.6-v8-2016-6335343
+2025-10-06 03:26:21,741 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-land_cruiser-vx-4.6-v8-2016-6335343 !
+2025-10-06 03:26:21,744 - INFO -      Status là 1
+2025-10-06 03:26:23,778 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-land_cruiser-vx-4.6-v8-2016-6335343
+2025-10-06 03:26:24,420 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-lux_a_2.0-tieu-chuan-2022-6337283
+2025-10-06 03:26:43,920 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-lux_a_2.0-tieu-chuan-2022-6337283 !
+2025-10-06 03:26:43,923 - INFO -      Status là 1
+2025-10-06 03:26:45,963 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-lux_a_2.0-tieu-chuan-2022-6337283
+2025-10-06 03:26:46,618 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-prado-txl-2.7l-2011-6442081
+2025-10-06 03:27:01,080 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-prado-txl-2.7l-2011-6442081 !
+2025-10-06 03:27:01,081 - INFO -      Status là 1
+2025-10-06 03:27:03,125 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-prado-txl-2.7l-2011-6442081
+2025-10-06 03:27:03,908 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-c_class-c300-amg-2022-6404546
+2025-10-06 03:27:16,395 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-c_class-c300-amg-2022-6404546 !
+2025-10-06 03:27:16,396 - INFO -      Status là 1
+2025-10-06 03:27:18,470 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-c_class-c300-amg-2022-6404546
+2025-10-06 03:27:19,416 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:27:19,417 - INFO - ĐANG CẠO LINK ROW 3800 đến 3809
+2025-10-06 03:27:20,397 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-3_series-320i-sport-line-2025-6346488
+2025-10-06 03:27:36,851 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-3_series-320i-sport-line-2025-6346488 !
+2025-10-06 03:27:36,852 - INFO -      Status là 1
+2025-10-06 03:27:38,934 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-3_series-320i-sport-line-2025-6346488
+2025-10-06 03:27:39,619 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-fortuner-2.7v-4x2-at-trd-2019-6438860
+2025-10-06 03:28:03,845 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-fortuner-2.7v-4x2-at-trd-2019-6438860 !
+2025-10-06 03:28:03,847 - INFO -      Status là 1
+2025-10-06 03:28:05,902 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-fortuner-2.7v-4x2-at-trd-2019-6438860
+2025-10-06 03:28:06,995 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-3_series-320i-2013-6459676
+2025-10-06 03:28:34,581 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-3_series-320i-2013-6459676 !
+2025-10-06 03:28:34,582 - INFO -      Status là 1
+2025-10-06 03:28:36,615 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-3_series-320i-2013-6459676
+2025-10-06 03:28:37,261 - INFO - Đang thử truy cập https://bonbanh.com/xe-smart-fortwo-1.0-at-2008-6416831
+2025-10-06 03:29:03,527 - INFO -      Truy cập thành công https://bonbanh.com/xe-smart-fortwo-1.0-at-2008-6416831 !
+2025-10-06 03:29:03,528 - INFO -      Status là 1
+2025-10-06 03:29:05,559 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-smart-fortwo-1.0-at-2008-6416831
+2025-10-06 03:29:06,202 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-sportage-gt-line-2015-6436877
+2025-10-06 03:29:36,591 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-sportage-gt-line-2015-6436877 !
+2025-10-06 03:29:36,593 - INFO -      Status là 1
+2025-10-06 03:29:38,626 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-sportage-gt-line-2015-6436877
+2025-10-06 03:29:39,265 - INFO - Đang thử truy cập https://bonbanh.com/xe-honda-crv-l-2020-6431004
+2025-10-06 03:29:59,036 - INFO -      Truy cập thành công https://bonbanh.com/xe-honda-crv-l-2020-6431004 !
+2025-10-06 03:29:59,039 - INFO -      Status là 1
+2025-10-06 03:30:01,083 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-honda-crv-l-2020-6431004
+2025-10-06 03:30:01,883 - INFO - Đang thử truy cập https://bonbanh.com/xe-mitsubishi-triton-4x4-at-mivec-2016-6430003
+2025-10-06 03:30:14,202 - INFO -      Truy cập thành công https://bonbanh.com/xe-mitsubishi-triton-4x4-at-mivec-2016-6430003 !
+2025-10-06 03:30:14,203 - INFO -      Status là 1
+2025-10-06 03:30:16,241 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mitsubishi-triton-4x4-at-mivec-2016-6430003
+2025-10-06 03:30:17,045 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2022-6460272
+2025-10-06 03:30:32,518 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2022-6460272 !
+2025-10-06 03:30:32,519 - INFO -      Status là 1
+2025-10-06 03:30:34,553 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2022-6460272
+2025-10-06 03:30:35,169 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-highlander-le-2.7-2014-6408545
+2025-10-06 03:30:52,413 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-highlander-le-2.7-2014-6408545 !
+2025-10-06 03:30:52,415 - INFO -      Status là 1
+2025-10-06 03:30:54,451 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-highlander-le-2.7-2014-6408545
+2025-10-06 03:30:55,074 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-sonet-deluxe-1.5-mt-2021-6387970
+2025-10-06 03:31:11,903 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-sonet-deluxe-1.5-mt-2021-6387970 !
+2025-10-06 03:31:11,906 - INFO -      Status là 1
+2025-10-06 03:31:13,942 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-sonet-deluxe-1.5-mt-2021-6387970
+2025-10-06 03:31:14,808 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:31:14,809 - INFO - ĐANG CẠO LINK ROW 3810 đến 3819
+2025-10-06 03:31:15,854 - INFO - Đang thử truy cập https://bonbanh.com/xe-volkswagen-teramont-x-platinum-2.0-at-2025-6341845
+2025-10-06 03:31:23,980 - INFO -      Truy cập thành công https://bonbanh.com/xe-volkswagen-teramont-x-platinum-2.0-at-2025-6341845 !
+2025-10-06 03:31:23,982 - INFO -      Status là 1
+2025-10-06 03:31:26,059 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-volkswagen-teramont-x-platinum-2.0-at-2025-6341845
+2025-10-06 03:31:26,723 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-sedona-platinum-d-2018-6449830
+2025-10-06 03:31:40,478 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-sedona-platinum-d-2018-6449830 !
+2025-10-06 03:31:40,482 - INFO -      Status là 1
+2025-10-06 03:31:42,519 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-sedona-platinum-d-2018-6449830
+2025-10-06 03:31:43,321 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-wildtrak-3.2l-4x4-at-2017-6190090
+2025-10-06 03:31:48,301 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-wildtrak-3.2l-4x4-at-2017-6190090 !
+2025-10-06 03:31:48,303 - INFO -      Status là 1
+2025-10-06 03:31:50,335 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-wildtrak-3.2l-4x4-at-2017-6190090
+2025-10-06 03:31:50,972 - INFO - Đang thử truy cập https://bonbanh.com/xe-mg-hs-1.5t-del-2025-6462102
+2025-10-06 03:32:07,614 - INFO -      Truy cập thành công https://bonbanh.com/xe-mg-hs-1.5t-del-2025-6462102 !
+2025-10-06 03:32:07,617 - INFO -      Status là 1
+2025-10-06 03:32:09,663 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mg-hs-1.5t-del-2025-6462102
+2025-10-06 03:32:10,400 - INFO - Đang thử truy cập https://bonbanh.com/xe-mg-hs-1.5t-del-2025-6457197
+2025-10-06 03:32:25,166 - INFO -      Truy cập thành công https://bonbanh.com/xe-mg-hs-1.5t-del-2025-6457197 !
+2025-10-06 03:32:25,170 - INFO -      Status là 1
+2025-10-06 03:32:27,217 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mg-hs-1.5t-del-2025-6457197
+2025-10-06 03:32:27,945 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-morning-luxury-2019-6428217
+2025-10-06 03:32:38,674 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-morning-luxury-2019-6428217 !
+2025-10-06 03:32:38,679 - INFO -      Status là 1
+2025-10-06 03:32:40,718 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-morning-luxury-2019-6428217
+2025-10-06 03:32:41,360 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-xls-2.0l-4x2-at-2025-5594500
+2025-10-06 03:32:59,721 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-xls-2.0l-4x2-at-2025-5594500 !
+2025-10-06 03:32:59,724 - INFO -      Status là 1
+2025-10-06 03:33:01,787 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-xls-2.0l-4x2-at-2025-5594500
+2025-10-06 03:33:03,131 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-prado-vx-2.7l-2022-6378951
+2025-10-06 03:33:13,284 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-prado-vx-2.7l-2022-6378951 !
+2025-10-06 03:33:13,288 - INFO -      Status là 1
+2025-10-06 03:33:15,323 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-prado-vx-2.7l-2022-6378951
+2025-10-06 03:33:15,951 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-avanza-premio-1.5-mt-2023-6396002
+2025-10-06 03:33:36,389 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-avanza-premio-1.5-mt-2023-6396002 !
+2025-10-06 03:33:36,390 - INFO -      Status là 1
+2025-10-06 03:33:38,423 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-avanza-premio-1.5-mt-2023-6396002
+2025-10-06 03:33:39,087 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-x5-xdrive40i-2019-6335728
+2025-10-06 03:33:42,378 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-x5-xdrive40i-2019-6335728 !
+2025-10-06 03:33:42,379 - INFO -      Status là 1
+2025-10-06 03:33:44,410 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-x5-xdrive40i-2019-6335728
+2025-10-06 03:33:45,158 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:33:45,159 - INFO - ĐANG CẠO LINK ROW 3820 đến 3829
+2025-10-06 03:33:45,751 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-fadil-tieu-chuan-1.4-at-2022-6374346
+2025-10-06 03:33:53,639 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-fadil-tieu-chuan-1.4-at-2022-6374346 !
+2025-10-06 03:33:53,642 - INFO -      Status là 1
+2025-10-06 03:33:55,774 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-fadil-tieu-chuan-1.4-at-2022-6374346
+2025-10-06 03:33:56,804 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-at-2021-6462311
+2025-10-06 03:34:12,057 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-at-2021-6462311 !
+2025-10-06 03:34:12,058 - INFO -      Status là 1
+2025-10-06 03:34:14,092 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-at-2021-6462311
+2025-10-06 03:34:14,738 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf3-plus-2025-6220873
+2025-10-06 03:34:25,900 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf3-plus-2025-6220873 !
+2025-10-06 03:34:25,902 - INFO -      Status là 1
+2025-10-06 03:34:27,939 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf3-plus-2025-6220873
+2025-10-06 03:34:28,493 - INFO - Đang thử truy cập https://bonbanh.com/xe-mitsubishi-xpander-1.5-at-2021-6417257
+2025-10-06 03:34:39,268 - INFO -      Truy cập thành công https://bonbanh.com/xe-mitsubishi-xpander-1.5-at-2021-6417257 !
+2025-10-06 03:34:39,269 - INFO -      Status là 1
+2025-10-06 03:34:41,304 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mitsubishi-xpander-1.5-at-2021-6417257
+2025-10-06 03:34:42,028 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-tucson-1.6-at-turbo-htrac-dac-biet-2022-6370827
+2025-10-06 03:34:55,892 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-tucson-1.6-at-turbo-htrac-dac-biet-2022-6370827 !
+2025-10-06 03:34:55,894 - INFO -      Status là 1
+2025-10-06 03:34:57,931 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-tucson-1.6-at-turbo-htrac-dac-biet-2022-6370827
+2025-10-06 03:34:58,552 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-3-1.5l-luxury-2023-6425453
+2025-10-06 03:35:19,633 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-3-1.5l-luxury-2023-6425453 !
+2025-10-06 03:35:19,637 - INFO -      Status là 1
+2025-10-06 03:35:21,682 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-3-1.5l-luxury-2023-6425453
+2025-10-06 03:35:22,525 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-3-1.5-at-2018-6382019
+2025-10-06 03:35:34,845 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-3-1.5-at-2018-6382019 !
+2025-10-06 03:35:34,848 - INFO -      Status là 1
+2025-10-06 03:35:36,892 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-3-1.5-at-2018-6382019
+2025-10-06 03:35:37,620 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-s_class-s450l-2017-6462262
+2025-10-06 03:35:55,061 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-s_class-s450l-2017-6462262 !
+2025-10-06 03:35:55,063 - INFO -      Status là 1
+2025-10-06 03:35:57,100 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-s_class-s450l-2017-6462262
+2025-10-06 03:35:57,761 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-innova-g-2009-6455551
+2025-10-06 03:36:23,173 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-innova-g-2009-6455551 !
+2025-10-06 03:36:23,175 - INFO -      Status là 1
+2025-10-06 03:36:25,212 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-innova-g-2009-6455551
+2025-10-06 03:36:25,854 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-carnival-premium-2.2d-2022-6456588
+2025-10-06 03:36:38,941 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-carnival-premium-2.2d-2022-6456588 !
+2025-10-06 03:36:38,944 - INFO -      Status là 1
+2025-10-06 03:36:40,982 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-carnival-premium-2.2d-2022-6456588
+2025-10-06 03:36:41,696 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:36:41,697 - INFO - ĐANG CẠO LINK ROW 3830 đến 3839
+2025-10-06 03:36:42,287 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-3-1.5-at-2018-6261538
+2025-10-06 03:36:58,080 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-3-1.5-at-2018-6261538 !
+2025-10-06 03:36:58,082 - INFO -      Status là 1
+2025-10-06 03:37:00,161 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-3-1.5-at-2018-6261538
+2025-10-06 03:37:00,847 - INFO - Đang thử truy cập https://bonbanh.com/xe-audi-a8-l-v6-3.0-tfsi-2014-6231747
+2025-10-06 03:37:40,818 - INFO -      Truy cập thành công https://bonbanh.com/xe-audi-a8-l-v6-3.0-tfsi-2014-6231747 !
+2025-10-06 03:37:40,820 - INFO -      Status là 1
+2025-10-06 03:37:42,853 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-audi-a8-l-v6-3.0-tfsi-2014-6231747
+2025-10-06 03:37:43,463 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-lux_sa_2.0-premium-2.0-at-2021-6455580
+2025-10-06 03:37:55,500 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-lux_sa_2.0-premium-2.0-at-2021-6455580 !
+2025-10-06 03:37:55,504 - INFO -      Status là 1
+2025-10-06 03:37:57,569 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-lux_sa_2.0-premium-2.0-at-2021-6455580
+2025-10-06 03:37:58,175 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-es-250-f-sport-2022-6363534
+2025-10-06 03:38:07,259 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-es-250-f-sport-2022-6363534 !
+2025-10-06 03:38:07,261 - INFO -      Status là 1
+2025-10-06 03:38:09,336 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-es-250-f-sport-2022-6363534
+2025-10-06 03:38:10,909 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-lux_sa_2.0-nang-cao-2022-6312517
+2025-10-06 03:38:49,016 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-lux_sa_2.0-nang-cao-2022-6312517 !
+2025-10-06 03:38:49,018 - INFO -      Status là 1
+2025-10-06 03:38:51,056 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-lux_sa_2.0-nang-cao-2022-6312517
+2025-10-06 03:38:51,699 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-transit-tieu-chuan-2023-6447177
+2025-10-06 03:39:00,963 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-transit-tieu-chuan-2023-6447177 !
+2025-10-06 03:39:00,968 - INFO -      Status là 1
+2025-10-06 03:39:03,009 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-transit-tieu-chuan-2023-6447177
+2025-10-06 03:39:03,791 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-fortuner-trd-sportivo-4x2-at-2015-6381413
+2025-10-06 03:39:34,108 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-fortuner-trd-sportivo-4x2-at-2015-6381413 !
+2025-10-06 03:39:34,112 - INFO -      Status là 1
+2025-10-06 03:39:36,145 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-fortuner-trd-sportivo-4x2-at-2015-6381413
+2025-10-06 03:39:36,760 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-raize-g-1.0-cvt-2021-6437398
+2025-10-06 03:39:44,046 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-raize-g-1.0-cvt-2021-6437398 !
+2025-10-06 03:39:44,051 - INFO -      Status là 1
+2025-10-06 03:39:46,130 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-raize-g-1.0-cvt-2021-6437398
+2025-10-06 03:39:47,078 - INFO - Đang thử truy cập https://bonbanh.com/xe-landrover-range_rover_evoque-hse-2017-6440523
+2025-10-06 03:40:03,272 - INFO -      Truy cập thành công https://bonbanh.com/xe-landrover-range_rover_evoque-hse-2017-6440523 !
+2025-10-06 03:40:03,278 - INFO -      Status là 1
+2025-10-06 03:40:05,371 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-landrover-range_rover_evoque-hse-2017-6440523
+2025-10-06 03:40:06,207 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-fortuner-2.4g-4x2-at-2020-6457091
+2025-10-06 03:40:29,153 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-fortuner-2.4g-4x2-at-2020-6457091 !
+2025-10-06 03:40:29,154 - INFO -      Status là 1
+2025-10-06 03:40:31,195 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-fortuner-2.4g-4x2-at-2020-6457091
+2025-10-06 03:40:31,966 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:40:31,967 - INFO - ĐANG CẠO LINK ROW 3840 đến 3849
+2025-10-06 03:40:32,535 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-territory-titanium-1.5-at-2025-6438301
+2025-10-06 03:40:48,830 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-territory-titanium-1.5-at-2025-6438301 !
+2025-10-06 03:40:48,832 - INFO -      Status là 1
+2025-10-06 03:40:50,943 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-territory-titanium-1.5-at-2025-6438301
+2025-10-06 03:40:51,771 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-200-2021-6315280
+2025-10-06 03:41:09,198 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-200-2021-6315280 !
+2025-10-06 03:41:09,200 - INFO -      Status là 1
+2025-10-06 03:41:11,231 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-200-2021-6315280
+2025-10-06 03:41:11,843 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-prado-vx-2.7l-2021-6311818
+2025-10-06 03:41:45,036 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-prado-vx-2.7l-2021-6311818 !
+2025-10-06 03:41:45,038 - INFO -      Status là 1
+2025-10-06 03:41:47,072 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-prado-vx-2.7l-2021-6311818
+2025-10-06 03:41:47,704 - INFO - Đang thử truy cập https://bonbanh.com/xe-mini-cooper-countryman-2014-6462326
+2025-10-06 03:41:53,495 - INFO -      Truy cập thành công https://bonbanh.com/xe-mini-cooper-countryman-2014-6462326 !
+2025-10-06 03:41:53,499 - INFO -      Status là 1
+2025-10-06 03:41:55,535 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mini-cooper-countryman-2014-6462326
+2025-10-06 03:41:56,160 - INFO - Đang thử truy cập https://bonbanh.com/xe-honda-hrv-l-2025-6433923
+2025-10-06 03:42:12,041 - INFO -      Truy cập thành công https://bonbanh.com/xe-honda-hrv-l-2025-6433923 !
+2025-10-06 03:42:12,042 - INFO -      Status là 1
+2025-10-06 03:42:14,074 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-honda-hrv-l-2025-6433923
+2025-10-06 03:42:14,657 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-lux_sa_2.0-base-2.0-at-2020-6450923
+2025-10-06 03:42:26,572 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-lux_sa_2.0-base-2.0-at-2020-6450923 !
+2025-10-06 03:42:26,574 - INFO -      Status là 1
+2025-10-06 03:42:28,609 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-lux_sa_2.0-base-2.0-at-2020-6450923
+2025-10-06 03:42:29,245 - INFO - Đang thử truy cập https://bonbanh.com/xe-infiniti-qx-70-3.7-awd-2015-6413475
+2025-10-06 03:43:04,330 - INFO -      Truy cập thành công https://bonbanh.com/xe-infiniti-qx-70-3.7-awd-2015-6413475 !
+2025-10-06 03:43:04,335 - INFO -      Status là 1
+2025-10-06 03:43:06,375 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-infiniti-qx-70-3.7-awd-2015-6413475
+2025-10-06 03:43:07,201 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-ls-460l-2015-6380724
+2025-10-06 03:43:14,998 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-ls-460l-2015-6380724 !
+2025-10-06 03:43:15,000 - INFO -      Status là 1
+2025-10-06 03:43:17,034 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-ls-460l-2015-6380724
+2025-10-06 03:43:17,686 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-200-2019-6442565
+2025-10-06 03:43:35,413 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-200-2019-6442565 !
+2025-10-06 03:43:35,418 - INFO -      Status là 1
+2025-10-06 03:43:37,459 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-200-2019-6442565
+2025-10-06 03:43:38,211 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf9-plus-2024-6264794
+2025-10-06 03:43:53,673 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf9-plus-2024-6264794 !
+2025-10-06 03:43:53,676 - INFO -      Status là 1
+2025-10-06 03:43:55,707 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf9-plus-2024-6264794
+2025-10-06 03:43:56,433 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:43:56,435 - INFO - ĐANG CẠO LINK ROW 3850 đến 3859
+2025-10-06 03:43:56,991 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-3-s-1.6-at-2014-6385340
+2025-10-06 03:44:32,363 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-3-s-1.6-at-2014-6385340 !
+2025-10-06 03:44:32,364 - INFO -      Status là 1
+2025-10-06 03:44:34,446 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-3-s-1.6-at-2014-6385340
+2025-10-06 03:44:35,292 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-prado-vx-2.7l-2019-6449502
+2025-10-06 03:44:51,965 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-prado-vx-2.7l-2019-6449502 !
+2025-10-06 03:44:51,966 - INFO -      Status là 1
+2025-10-06 03:44:54,007 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-prado-vx-2.7l-2019-6449502
+2025-10-06 03:44:54,772 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-innova-2.0e-2018-6460038
+2025-10-06 03:45:05,157 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-innova-2.0e-2018-6460038 !
+2025-10-06 03:45:05,160 - INFO -      Status là 1
+2025-10-06 03:45:07,200 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-innova-2.0e-2018-6460038
+2025-10-06 03:45:07,975 - INFO - Đang thử truy cập https://bonbanh.com/xe-honda-crv-l-2019-6442496
+2025-10-06 03:45:28,388 - INFO -      Truy cập thành công https://bonbanh.com/xe-honda-crv-l-2019-6442496 !
+2025-10-06 03:45:28,392 - INFO -      Status là 1
+2025-10-06 03:45:30,426 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-honda-crv-l-2019-6442496
+2025-10-06 03:45:31,080 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.2l-htrac-2021-6425318
+2025-10-06 03:46:09,454 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.2l-htrac-2021-6425318 !
+2025-10-06 03:46:09,458 - INFO -      Status là 1
+2025-10-06 03:46:11,492 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.2l-htrac-2021-6425318
+2025-10-06 03:46:12,138 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2021-6290766
+2025-10-06 03:46:26,012 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2021-6290766 !
+2025-10-06 03:46:26,020 - INFO -      Status là 1
+2025-10-06 03:46:28,055 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2021-6290766
+2025-10-06 03:46:28,748 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-3-1.5l-sport-luxury-2023-6461436
+2025-10-06 03:46:39,713 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-3-1.5l-sport-luxury-2023-6461436 !
+2025-10-06 03:46:39,716 - INFO -      Status là 1
+2025-10-06 03:46:41,765 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-3-1.5l-sport-luxury-2023-6461436
+2025-10-06 03:46:42,549 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf5-plus-2025-6227238
+2025-10-06 03:46:52,915 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf5-plus-2025-6227238 !
+2025-10-06 03:46:52,916 - INFO -      Status là 1
+2025-10-06 03:46:54,982 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf5-plus-2025-6227238
+2025-10-06 03:46:55,565 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-transit-tieu-chuan-2023-6445141
+2025-10-06 03:47:15,469 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-transit-tieu-chuan-2023-6445141 !
+2025-10-06 03:47:15,476 - INFO -      Status là 1
+2025-10-06 03:47:17,518 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-transit-tieu-chuan-2023-6445141
+2025-10-06 03:47:18,400 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-sedona-2.2l-dath-2018-6382824
+2025-10-06 03:47:41,777 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-sedona-2.2l-dath-2018-6382824 !
+2025-10-06 03:47:41,778 - INFO -      Status là 1
+2025-10-06 03:47:43,810 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-sedona-2.2l-dath-2018-6382824
+2025-10-06 03:47:44,501 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:47:44,502 - INFO - ĐANG CẠO LINK ROW 3860 đến 3869
+2025-10-06 03:47:45,053 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-xls-2.0l-4x4-at-2022-6459256
+2025-10-06 03:48:03,388 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-xls-2.0l-4x4-at-2022-6459256 !
+2025-10-06 03:48:03,390 - INFO -      Status là 1
+2025-10-06 03:48:05,502 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-xls-2.0l-4x4-at-2022-6459256
+2025-10-06 03:48:06,568 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-land_cruiser-vx-4.6-v8-2015-6447859
+2025-10-06 03:48:47,254 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-land_cruiser-vx-4.6-v8-2015-6447859 !
+2025-10-06 03:48:47,256 - INFO -      Status là 1
+2025-10-06 03:48:49,295 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-land_cruiser-vx-4.6-v8-2015-6447859
+2025-10-06 03:48:50,100 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-5_series-530i-luxury-line-2019-6233916
+2025-10-06 03:49:22,657 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-5_series-530i-luxury-line-2019-6233916 !
+2025-10-06 03:49:22,661 - INFO -      Status là 1
+2025-10-06 03:49:24,694 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-5_series-530i-luxury-line-2019-6233916
+2025-10-06 03:49:25,310 - INFO - Đang thử truy cập https://bonbanh.com/xe-volkswagen-viloran-luxury-2025-5397095
+2025-10-06 03:49:43,230 - INFO -      Truy cập thành công https://bonbanh.com/xe-volkswagen-viloran-luxury-2025-5397095 !
+2025-10-06 03:49:43,234 - INFO -      Status là 1
+2025-10-06 03:49:45,267 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-volkswagen-viloran-luxury-2025-5397095
+2025-10-06 03:49:45,819 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-sonet-deluxe-1.5-at-2025-6424590
+2025-10-06 03:50:06,916 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-sonet-deluxe-1.5-at-2025-6424590 !
+2025-10-06 03:50:06,923 - INFO -      Status là 1
+2025-10-06 03:50:08,953 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-sonet-deluxe-1.5-at-2025-6424590
+2025-10-06 03:50:09,560 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ecosport-titanium-1.5l-at-2016-6442190
+2025-10-06 03:50:27,311 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ecosport-titanium-1.5l-at-2016-6442190 !
+2025-10-06 03:50:27,313 - INFO -      Status là 1
+2025-10-06 03:50:29,347 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ecosport-titanium-1.5l-at-2016-6442190
+2025-10-06 03:50:29,983 - INFO - Đang thử truy cập https://bonbanh.com/xe-mitsubishi-pajero-sport-d-4x2-at-2012-6332502
+2025-10-06 03:50:50,524 - INFO -      Truy cập thành công https://bonbanh.com/xe-mitsubishi-pajero-sport-d-4x2-at-2012-6332502 !
+2025-10-06 03:50:50,530 - INFO -      Status là 1
+2025-10-06 03:50:52,596 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mitsubishi-pajero-sport-d-4x2-at-2012-6332502
+2025-10-06 03:50:53,892 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-es-250-f-sport-2021-6382237
+2025-10-06 03:51:19,481 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-es-250-f-sport-2021-6382237 !
+2025-10-06 03:51:19,487 - INFO -      Status là 1
+2025-10-06 03:51:21,523 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-es-250-f-sport-2021-6382237
+2025-10-06 03:51:22,330 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-3_series-320i-2015-6373438
+2025-10-06 03:51:31,216 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-3_series-320i-2015-6373438 !
+2025-10-06 03:51:31,220 - INFO -      Status là 1
+2025-10-06 03:51:33,255 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-3_series-320i-2015-6373438
+2025-10-06 03:51:33,998 - INFO - Đang thử truy cập https://bonbanh.com/xe-landrover-range_rover_evoque-r-dynamic-se-2019-6446587
+2025-10-06 03:51:57,116 - INFO -      Truy cập thành công https://bonbanh.com/xe-landrover-range_rover_evoque-r-dynamic-se-2019-6446587 !
+2025-10-06 03:51:57,118 - INFO -      Status là 1
+2025-10-06 03:51:59,160 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-landrover-range_rover_evoque-r-dynamic-se-2019-6446587
+2025-10-06 03:52:00,080 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:52:00,082 - INFO - ĐANG CẠO LINK ROW 3870 đến 3879
+2025-10-06 03:52:00,649 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-morning-van-1.0-at-2013-6462338
+2025-10-06 03:52:15,394 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-morning-van-1.0-at-2013-6462338 !
+2025-10-06 03:52:15,396 - INFO -      Status là 1
+2025-10-06 03:52:17,481 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-morning-van-1.0-at-2013-6462338
+2025-10-06 03:52:18,111 - INFO - Đang thử truy cập https://bonbanh.com/xe-volkswagen-viloran-premium-2025-6323559
+2025-10-06 03:52:30,530 - INFO -      Truy cập thành công https://bonbanh.com/xe-volkswagen-viloran-premium-2025-6323559 !
+2025-10-06 03:52:30,538 - INFO -      Status là 1
+2025-10-06 03:52:32,580 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-volkswagen-viloran-premium-2025-6323559
+2025-10-06 03:52:33,327 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-7_series-730li-2020-6433739
+2025-10-06 03:52:41,802 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-7_series-730li-2020-6433739 !
+2025-10-06 03:52:41,803 - INFO -      Status là 1
+2025-10-06 03:52:43,839 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-7_series-730li-2020-6433739
+2025-10-06 03:52:44,555 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-land_cruiser-vxr-4.2-at-2007-6315359
+2025-10-06 03:52:53,080 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-land_cruiser-vxr-4.2-at-2007-6315359 !
+2025-10-06 03:52:53,087 - INFO -      Status là 1
+2025-10-06 03:52:55,124 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-land_cruiser-vxr-4.2-at-2007-6315359
+2025-10-06 03:52:55,734 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf6-plus-2025-6427501
+2025-10-06 03:53:08,245 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf6-plus-2025-6427501 !
+2025-10-06 03:53:08,248 - INFO -      Status là 1
+2025-10-06 03:53:10,288 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf6-plus-2025-6427501
+2025-10-06 03:53:11,085 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-creta-dac-biet-1.5-at-2024-6460054
+2025-10-06 03:53:22,577 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-creta-dac-biet-1.5-at-2024-6460054 !
+2025-10-06 03:53:22,582 - INFO -      Status là 1
+2025-10-06 03:53:24,623 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-creta-dac-biet-1.5-at-2024-6460054
+2025-10-06 03:53:25,256 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-stargazer-x-cao-cap-1.5-at-2025-6457501
+2025-10-06 03:53:44,729 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-stargazer-x-cao-cap-1.5-at-2025-6457501 !
+2025-10-06 03:53:44,732 - INFO -      Status là 1
+2025-10-06 03:53:46,772 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-stargazer-x-cao-cap-1.5-at-2025-6457501
+2025-10-06 03:53:47,667 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-accent-1.4-at-2024-6438706
+2025-10-06 03:54:15,272 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-accent-1.4-at-2024-6438706 !
+2025-10-06 03:54:15,276 - INFO -      Status là 1
+2025-10-06 03:54:17,317 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-accent-1.4-at-2024-6438706
+2025-10-06 03:54:17,989 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-veloz-cross-top-1.5-cvt-2025-5991941
+2025-10-06 03:54:35,057 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-veloz-cross-top-1.5-cvt-2025-5991941 !
+2025-10-06 03:54:35,061 - INFO -      Status là 1
+2025-10-06 03:54:37,108 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-veloz-cross-top-1.5-cvt-2025-5991941
+2025-10-06 03:54:37,857 - INFO - Đang thử truy cập https://bonbanh.com/xe-suzuki-swift-1.4-at-2015-6454229
+2025-10-06 03:54:51,150 - INFO -      Truy cập thành công https://bonbanh.com/xe-suzuki-swift-1.4-at-2015-6454229 !
+2025-10-06 03:54:51,151 - INFO -      Status là 1
+2025-10-06 03:54:53,202 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-suzuki-swift-1.4-at-2015-6454229
+2025-10-06 03:54:55,181 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:54:55,182 - INFO - ĐANG CẠO LINK ROW 3880 đến 3889
+2025-10-06 03:54:56,123 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-innova-cross-hev-2.0-cvt-2025-5738395
+2025-10-06 03:55:20,156 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-innova-cross-hev-2.0-cvt-2025-5738395 !
+2025-10-06 03:55:20,159 - INFO -      Status là 1
+2025-10-06 03:55:22,222 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-innova-cross-hev-2.0-cvt-2025-5738395
+2025-10-06 03:55:22,976 - INFO - Đang thử truy cập https://bonbanh.com/xe-skoda-karoq-ambition-1.4-at-2024-5264218
+2025-10-06 03:55:35,502 - INFO -      Truy cập thành công https://bonbanh.com/xe-skoda-karoq-ambition-1.4-at-2024-5264218 !
+2025-10-06 03:55:35,507 - INFO -      Status là 1
+2025-10-06 03:55:37,549 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-skoda-karoq-ambition-1.4-at-2024-5264218
+2025-10-06 03:55:38,286 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-creta-dac-biet-1.5-at-2022-6463149
+2025-10-06 03:56:02,222 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-creta-dac-biet-1.5-at-2022-6463149 !
+2025-10-06 03:56:02,225 - INFO -      Status là 1
+2025-10-06 03:56:04,322 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-creta-dac-biet-1.5-at-2022-6463149
+2025-10-06 03:56:05,557 - INFO - Đang thử truy cập https://bonbanh.com/xe-audi-a6-45-tfsi-2022-6452778
+2025-10-06 03:56:30,145 - INFO -      Truy cập thành công https://bonbanh.com/xe-audi-a6-45-tfsi-2022-6452778 !
+2025-10-06 03:56:30,147 - INFO -      Status là 1
+2025-10-06 03:56:32,182 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-audi-a6-45-tfsi-2022-6452778
+2025-10-06 03:56:32,810 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-everest-platinum-2.0l-4x4-at-2025-6458527
+2025-10-06 03:56:51,386 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-everest-platinum-2.0l-4x4-at-2025-6458527 !
+2025-10-06 03:56:51,388 - INFO -      Status là 1
+2025-10-06 03:56:53,429 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-everest-platinum-2.0l-4x4-at-2025-6458527
+2025-10-06 03:56:54,240 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-x4-xdrive20i-m-sport-2020-6454004
+2025-10-06 03:57:06,424 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-x4-xdrive20i-m-sport-2020-6454004 !
+2025-10-06 03:57:06,428 - INFO -      Status là 1
+2025-10-06 03:57:08,476 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-x4-xdrive20i-m-sport-2020-6454004
+2025-10-06 03:57:09,337 - INFO - Đang thử truy cập https://bonbanh.com/xe-volkswagen-scirocco-1.4-at-2010-6417033
+2025-10-06 03:57:33,086 - INFO -      Truy cập thành công https://bonbanh.com/xe-volkswagen-scirocco-1.4-at-2010-6417033 !
+2025-10-06 03:57:33,088 - INFO -      Status là 1
+2025-10-06 03:57:35,127 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-volkswagen-scirocco-1.4-at-2010-6417033
+2025-10-06 03:57:35,913 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-c_class-c200-avantgarde-plus-2022-6436096
+2025-10-06 03:58:02,985 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-c_class-c200-avantgarde-plus-2022-6436096 !
+2025-10-06 03:58:02,987 - INFO -      Status là 1
+2025-10-06 03:58:05,020 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-c_class-c200-avantgarde-plus-2022-6436096
+2025-10-06 03:58:05,642 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-sedona-2.2-dat-deluxe-2021-6326672
+2025-10-06 03:58:11,338 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-sedona-2.2-dat-deluxe-2021-6326672 !
+2025-10-06 03:58:11,343 - INFO -      Status là 1
+2025-10-06 03:58:13,379 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-sedona-2.2-dat-deluxe-2021-6326672
+2025-10-06 03:58:14,002 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-accent-1.4-at-2021-6463132
+2025-10-06 03:58:20,757 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-accent-1.4-at-2021-6463132 !
+2025-10-06 03:58:20,760 - INFO -      Status là 1
+2025-10-06 03:58:22,827 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-accent-1.4-at-2021-6463132
+2025-10-06 03:58:24,559 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 03:58:24,562 - INFO - ĐANG CẠO LINK ROW 3890 đến 3899
+2025-10-06 03:58:25,725 - INFO - Đang thử truy cập https://bonbanh.com/xe-skoda-kodiaq-style-2.0-at-4wd-2024-5246848
+2025-10-06 03:58:33,140 - INFO -      Truy cập thành công https://bonbanh.com/xe-skoda-kodiaq-style-2.0-at-4wd-2024-5246848 !
+2025-10-06 03:58:33,145 - INFO -      Status là 1
+2025-10-06 03:58:35,236 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-skoda-kodiaq-style-2.0-at-4wd-2024-5246848
+2025-10-06 03:58:35,897 - INFO - Đang thử truy cập https://bonbanh.com/xe-nissan-navara-el-2.3-at-2wd-cao-cap-2022-6436798
+2025-10-06 03:58:42,074 - INFO -      Truy cập thành công https://bonbanh.com/xe-nissan-navara-el-2.3-at-2wd-cao-cap-2022-6436798 !
+2025-10-06 03:58:42,076 - INFO -      Status là 1
+2025-10-06 03:58:44,110 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-nissan-navara-el-2.3-at-2wd-cao-cap-2022-6436798
+2025-10-06 03:58:44,748 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-explorer-limited-2.3l-ecoboost-2024-6367721
+2025-10-06 03:59:00,036 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-explorer-limited-2.3l-ecoboost-2024-6367721 !
+2025-10-06 03:59:00,042 - INFO -      Status là 1
+2025-10-06 03:59:02,080 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-explorer-limited-2.3l-ecoboost-2024-6367721
+2025-10-06 03:59:02,700 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-lm-350-2022-6181961
+2025-10-06 03:59:13,683 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-lm-350-2022-6181961 !
+2025-10-06 03:59:13,686 - INFO -      Status là 1
+2025-10-06 03:59:15,720 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-lm-350-2022-6181961
+2025-10-06 03:59:16,360 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-e_class-e200-exclusive-2021-6380580
+2025-10-06 03:59:34,519 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-e_class-e200-exclusive-2021-6380580 !
+2025-10-06 03:59:34,521 - INFO -      Status là 1
+2025-10-06 03:59:36,585 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-e_class-e200-exclusive-2021-6380580
+2025-10-06 03:59:37,952 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-fortuner-2.4l-4x2-at-2022-6463156
+2025-10-06 03:59:53,272 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-fortuner-2.4l-4x2-at-2022-6463156 !
+2025-10-06 03:59:53,275 - INFO -      Status là 1
+2025-10-06 03:59:55,317 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-fortuner-2.4l-4x2-at-2022-6463156
+2025-10-06 03:59:56,126 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-kona-2.0-ath-2020-6230532
+2025-10-06 04:00:08,158 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-kona-2.0-ath-2020-6230532 !
+2025-10-06 04:00:08,164 - INFO -      Status là 1
+2025-10-06 04:00:10,237 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-kona-2.0-ath-2020-6230532
+2025-10-06 04:00:11,727 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-sienna-limited-3.5-2016-6263242
+2025-10-06 04:00:24,024 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-sienna-limited-3.5-2016-6263242 !
+2025-10-06 04:00:24,027 - INFO -      Status là 1
+2025-10-06 04:00:26,068 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-sienna-limited-3.5-2016-6263242
+2025-10-06 04:00:26,812 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-fortuner-2.5g-2016-6307747
+2025-10-06 04:00:36,600 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-fortuner-2.5g-2016-6307747 !
+2025-10-06 04:00:36,602 - INFO -      Status là 1
+2025-10-06 04:00:38,639 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-fortuner-2.5g-2016-6307747
+2025-10-06 04:00:39,286 - INFO - Đang thử truy cập https://bonbanh.com/xe-volkswagen-viloran-luxury-2023-6463135
+2025-10-06 04:01:05,597 - INFO -      Truy cập thành công https://bonbanh.com/xe-volkswagen-viloran-luxury-2023-6463135 !
+2025-10-06 04:01:05,601 - INFO -      Status là 1
+2025-10-06 04:01:07,633 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-volkswagen-viloran-luxury-2023-6463135
+2025-10-06 04:01:08,333 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 04:01:08,337 - INFO - ĐANG CẠO LINK ROW 3900 đến 3909
+2025-10-06 04:01:09,196 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-5662867
+2025-10-06 04:01:27,716 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-5662867 !
+2025-10-06 04:01:27,717 - INFO -      Status là 1
+2025-10-06 04:01:29,791 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-5662867
+2025-10-06 04:01:31,291 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-sorento-gat-2.4l-4wd-2013-6426326
+2025-10-06 04:01:43,992 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-sorento-gat-2.4l-4wd-2013-6426326 !
+2025-10-06 04:01:43,993 - INFO -      Status là 1
+2025-10-06 04:01:46,035 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-sorento-gat-2.4l-4wd-2013-6426326
+2025-10-06 04:01:46,822 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf8-eco-awd-2023-6454130
+2025-10-06 04:02:04,136 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf8-eco-awd-2023-6454130 !
+2025-10-06 04:02:04,141 - INFO -      Status là 1
+2025-10-06 04:02:06,175 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf8-eco-awd-2023-6454130
+2025-10-06 04:02:06,791 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-yaris-1.3-at-2010-6450279
+2025-10-06 04:02:15,500 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-yaris-1.3-at-2010-6450279 !
+2025-10-06 04:02:15,507 - INFO -      Status là 1
+2025-10-06 04:02:17,550 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-yaris-1.3-at-2010-6450279
+2025-10-06 04:02:18,341 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-6-2.0-at-2015-6413184
+2025-10-06 04:02:43,094 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-6-2.0-at-2015-6413184 !
+2025-10-06 04:02:43,096 - INFO -      Status là 1
+2025-10-06 04:02:45,140 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-6-2.0-at-2015-6413184
+2025-10-06 04:02:45,914 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-6432496
+2025-10-06 04:02:52,400 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-6432496 !
+2025-10-06 04:02:52,402 - INFO -      Status là 1
+2025-10-06 04:02:54,439 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-territory-titanium-x-1.5-at-2025-6432496
+2025-10-06 04:02:55,113 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf3-plus-2025-6375141
+2025-10-06 04:03:05,336 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf3-plus-2025-6375141 !
+2025-10-06 04:03:05,340 - INFO -      Status là 1
+2025-10-06 04:03:07,377 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf3-plus-2025-6375141
+2025-10-06 04:03:08,020 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-santafe-2.2l-4wd-2016-6397506
+2025-10-06 04:03:20,023 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-santafe-2.2l-4wd-2016-6397506 !
+2025-10-06 04:03:20,025 - INFO -      Status là 1
+2025-10-06 04:03:22,059 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-santafe-2.2l-4wd-2016-6397506
+2025-10-06 04:03:22,714 - INFO - Đang thử truy cập https://bonbanh.com/xe-daewoo-lacetti-ex-2010-6449635
+2025-10-06 04:03:27,500 - INFO -      Truy cập thành công https://bonbanh.com/xe-daewoo-lacetti-ex-2010-6449635 !
+2025-10-06 04:03:27,504 - INFO -      Status là 1
+2025-10-06 04:03:29,557 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-daewoo-lacetti-ex-2010-6449635
+2025-10-06 04:03:30,474 - INFO - Đang thử truy cập https://bonbanh.com/xe-mitsubishi-outlander_sport-2.0-cvt-premium-2015-6350343
+2025-10-06 04:03:40,563 - INFO -      Truy cập thành công https://bonbanh.com/xe-mitsubishi-outlander_sport-2.0-cvt-premium-2015-6350343 !
+2025-10-06 04:03:40,565 - INFO -      Status là 1
+2025-10-06 04:03:42,597 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mitsubishi-outlander_sport-2.0-cvt-premium-2015-6350343
+2025-10-06 04:03:43,288 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 04:03:43,289 - INFO - ĐANG CẠO LINK ROW 3910 đến 3919
+2025-10-06 04:03:44,002 - INFO - Đang thử truy cập https://bonbanh.com/xe-subaru-brz-2.4-at-eyesight-2025-6182728
+2025-10-06 04:03:56,357 - INFO -      Truy cập thành công https://bonbanh.com/xe-subaru-brz-2.4-at-eyesight-2025-6182728 !
+2025-10-06 04:03:56,358 - INFO -      Status là 1
+2025-10-06 04:03:58,445 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-subaru-brz-2.4-at-eyesight-2025-6182728
+2025-10-06 04:03:59,077 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-morning-x-line-2021-6296670
+2025-10-06 04:04:11,236 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-morning-x-line-2021-6296670 !
+2025-10-06 04:04:11,238 - INFO -      Status là 1
+2025-10-06 04:04:13,273 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-morning-x-line-2021-6296670
+2025-10-06 04:04:13,921 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-corolla_altis-1.8g-at-2009-6200961
+2025-10-06 04:04:25,250 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-corolla_altis-1.8g-at-2009-6200961 !
+2025-10-06 04:04:25,252 - INFO -      Status là 1
+2025-10-06 04:04:27,293 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-corolla_altis-1.8g-at-2009-6200961
+2025-10-06 04:04:28,003 - INFO - Đang thử truy cập https://bonbanh.com/xe-audi-q5-sportback-sline-45-tfsi-quattro-2021-6443667
+2025-10-06 04:04:35,364 - INFO -      Truy cập thành công https://bonbanh.com/xe-audi-q5-sportback-sline-45-tfsi-quattro-2021-6443667 !
+2025-10-06 04:04:35,369 - INFO -      Status là 1
+2025-10-06 04:04:37,409 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-audi-q5-sportback-sline-45-tfsi-quattro-2021-6443667
+2025-10-06 04:04:38,056 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-250-4matic-2017-6453024
+2025-10-06 04:04:48,747 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-250-4matic-2017-6453024 !
+2025-10-06 04:04:48,749 - INFO -      Status là 1
+2025-10-06 04:04:50,794 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-250-4matic-2017-6453024
+2025-10-06 04:04:51,507 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-vios-1.5g-2015-6463130
+2025-10-06 04:04:57,142 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-vios-1.5g-2015-6463130 !
+2025-10-06 04:04:57,144 - INFO -      Status là 1
+2025-10-06 04:04:59,183 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-vios-1.5g-2015-6463130
+2025-10-06 04:05:00,037 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-elantra-sport-1.6-at-2022-6455227
+2025-10-06 04:05:06,211 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-elantra-sport-1.6-at-2022-6455227 !
+2025-10-06 04:05:06,214 - INFO -      Status là 1
+2025-10-06 04:05:08,282 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-elantra-sport-1.6-at-2022-6455227
+2025-10-06 04:05:09,509 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-carnival-signature-2.2d-2023-6461704
+2025-10-06 04:05:19,924 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-carnival-signature-2.2d-2023-6461704 !
+2025-10-06 04:05:19,928 - INFO -      Status là 1
+2025-10-06 04:05:21,968 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-carnival-signature-2.2d-2023-6461704
+2025-10-06 04:05:22,798 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-e_class-e250-2017-6434232
+2025-10-06 04:05:34,643 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-e_class-e250-2017-6434232 !
+2025-10-06 04:05:34,645 - INFO -      Status là 1
+2025-10-06 04:05:36,700 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-e_class-e250-2017-6434232
+2025-10-06 04:05:38,122 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-3-1.5l-luxury-2024-6381284
+2025-10-06 04:06:06,334 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-3-1.5l-luxury-2024-6381284 !
+2025-10-06 04:06:06,336 - INFO -      Status là 1
+2025-10-06 04:06:08,382 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-3-1.5l-luxury-2024-6381284
+2025-10-06 04:06:09,355 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 04:06:09,356 - INFO - ĐANG CẠO LINK ROW 3920 đến 3929
+2025-10-06 04:06:10,343 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-x4-xdrive20i-m-sport-2023-6316489
+2025-10-06 04:06:19,833 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-x4-xdrive20i-m-sport-2023-6316489 !
+2025-10-06 04:06:19,835 - INFO -      Status là 1
+2025-10-06 04:06:21,957 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-x4-xdrive20i-m-sport-2023-6316489
+2025-10-06 04:06:22,746 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-hilux-2.4l-4x2-at-2025-5841100
+2025-10-06 04:06:29,602 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-hilux-2.4l-4x2-at-2025-5841100 !
+2025-10-06 04:06:29,604 - INFO -      Status là 1
+2025-10-06 04:06:31,636 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-hilux-2.4l-4x2-at-2025-5841100
+2025-10-06 04:06:32,261 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-lm-500h-2025-6339723
+2025-10-06 04:06:36,371 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-lm-500h-2025-6339723 !
+2025-10-06 04:06:36,373 - INFO -      Status là 1
+2025-10-06 04:06:38,413 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-lm-500h-2025-6339723
+2025-10-06 04:06:39,141 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-santafe-prestige-2.5l-htrac-2025-5970463
+2025-10-06 04:06:50,273 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-santafe-prestige-2.5l-htrac-2025-5970463 !
+2025-10-06 04:06:50,277 - INFO -      Status là 1
+2025-10-06 04:06:52,344 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-santafe-prestige-2.5l-htrac-2025-5970463
+2025-10-06 04:06:53,573 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf3-plus-2025-6273527
+2025-10-06 04:07:05,281 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf3-plus-2025-6273527 !
+2025-10-06 04:07:05,283 - INFO -      Status là 1
+2025-10-06 04:07:07,316 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf3-plus-2025-6273527
+2025-10-06 04:07:07,931 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-rx-300-f-sport-2022-6350284
+2025-10-06 04:07:15,109 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-rx-300-f-sport-2022-6350284 !
+2025-10-06 04:07:15,115 - INFO -      Status là 1
+2025-10-06 04:07:17,160 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-rx-300-f-sport-2022-6350284
+2025-10-06 04:07:17,840 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-cx8-premium-2022-5831128
+2025-10-06 04:07:23,857 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-cx8-premium-2022-5831128 !
+2025-10-06 04:07:23,860 - INFO -      Status là 1
+2025-10-06 04:07:25,934 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-cx8-premium-2022-5831128
+2025-10-06 04:07:27,334 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-fortuner-2.7v-4x2-at-2015-6366727
+2025-10-06 04:07:42,208 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-fortuner-2.7v-4x2-at-2015-6366727 !
+2025-10-06 04:07:42,210 - INFO -      Status là 1
+2025-10-06 04:07:44,255 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-fortuner-2.7v-4x2-at-2015-6366727
+2025-10-06 04:07:45,045 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-2-1.5-at-2015-6232703
+2025-10-06 04:08:08,321 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-2-1.5-at-2015-6232703 !
+2025-10-06 04:08:08,323 - INFO -      Status là 1
+2025-10-06 04:08:10,361 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-2-1.5-at-2015-6232703
+2025-10-06 04:08:11,153 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-accent-1.4-at-dac-biet-2023-6449185
+2025-10-06 04:08:19,297 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-accent-1.4-at-dac-biet-2023-6449185 !
+2025-10-06 04:08:19,299 - INFO -      Status là 1
+2025-10-06 04:08:21,330 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-accent-1.4-at-dac-biet-2023-6449185
+2025-10-06 04:08:22,080 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 04:08:22,083 - INFO - ĐANG CẠO LINK ROW 3930 đến 3939
+2025-10-06 04:08:22,645 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-seltos-deluxe-1.6-at-2023-6450174
+2025-10-06 04:08:34,782 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-seltos-deluxe-1.6-at-2023-6450174 !
+2025-10-06 04:08:34,789 - INFO -      Status là 1
+2025-10-06 04:08:36,888 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-seltos-deluxe-1.6-at-2023-6450174
+2025-10-06 04:08:37,981 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-cerato-1.6-at-2018-6229397
+2025-10-06 04:08:48,184 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-cerato-1.6-at-2018-6229397 !
+2025-10-06 04:08:48,185 - INFO -      Status là 1
+2025-10-06 04:08:50,216 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-cerato-1.6-at-2018-6229397
+2025-10-06 04:08:50,820 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-accent-1.4-at-dac-biet-2022-6445907
+2025-10-06 04:09:00,839 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-accent-1.4-at-dac-biet-2022-6445907 !
+2025-10-06 04:09:00,842 - INFO -      Status là 1
+2025-10-06 04:09:02,875 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-accent-1.4-at-dac-biet-2022-6445907
+2025-10-06 04:09:03,512 - INFO - Đang thử truy cập https://bonbanh.com/xe-porsche-macan-2.0-2021-6440082
+2025-10-06 04:09:10,343 - INFO -      Truy cập thành công https://bonbanh.com/xe-porsche-macan-2.0-2021-6440082 !
+2025-10-06 04:09:10,347 - INFO -      Status là 1
+2025-10-06 04:09:12,411 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-porsche-macan-2.0-2021-6440082
+2025-10-06 04:09:13,803 - INFO - Đang thử truy cập https://bonbanh.com/xe-maserati-mc20-3.0-v6-at-2021-5408813
+2025-10-06 04:09:25,167 - INFO -      Truy cập thành công https://bonbanh.com/xe-maserati-mc20-3.0-v6-at-2021-5408813 !
+2025-10-06 04:09:25,170 - INFO -      Status là 1
+2025-10-06 04:09:27,209 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-maserati-mc20-3.0-v6-at-2021-5408813
+2025-10-06 04:09:27,810 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-cx8-premium-2022-6403186
+2025-10-06 04:09:36,831 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-cx8-premium-2022-6403186 !
+2025-10-06 04:09:36,833 - INFO -      Status là 1
+2025-10-06 04:09:38,872 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-cx8-premium-2022-6403186
+2025-10-06 04:09:39,512 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2023-6463152
+2025-10-06 04:09:46,192 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2023-6463152 !
+2025-10-06 04:09:46,196 - INFO -      Status là 1
+2025-10-06 04:09:48,255 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2023-6463152
+2025-10-06 04:09:49,208 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-vios-1.5g-2016-6325308
+2025-10-06 04:10:12,366 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-vios-1.5g-2016-6325308 !
+2025-10-06 04:10:12,371 - INFO -      Status là 1
+2025-10-06 04:10:14,422 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-vios-1.5g-2016-6325308
+2025-10-06 04:10:15,236 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-accent-1.4-at-2021-6176854
+2025-10-06 04:10:33,672 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-accent-1.4-at-2021-6176854 !
+2025-10-06 04:10:33,676 - INFO -      Status là 1
+2025-10-06 04:10:35,711 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-accent-1.4-at-2021-6176854
+2025-10-06 04:10:36,365 - INFO - Đang thử truy cập https://bonbanh.com/xe-audi-a8-l-v8-4.0l-tfsi-2015-6107120
+2025-10-06 04:10:41,021 - INFO -      Truy cập thành công https://bonbanh.com/xe-audi-a8-l-v8-4.0l-tfsi-2015-6107120 !
+2025-10-06 04:10:41,023 - INFO -      Status là 1
+2025-10-06 04:10:43,055 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-audi-a8-l-v8-4.0l-tfsi-2015-6107120
+2025-10-06 04:10:43,818 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 04:10:43,820 - INFO - ĐANG CẠO LINK ROW 3940 đến 3949
+2025-10-06 04:10:45,265 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-tucson-2.0-at-dac-biet-2021-6354630
+2025-10-06 04:11:07,504 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-tucson-2.0-at-dac-biet-2021-6354630 !
+2025-10-06 04:11:07,506 - INFO -      Status là 1
+2025-10-06 04:11:09,589 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-tucson-2.0-at-dac-biet-2021-6354630
+2025-10-06 04:11:10,290 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-gs-350-2010-6427362
+2025-10-06 04:11:15,101 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-gs-350-2010-6427362 !
+2025-10-06 04:11:15,103 - INFO -      Status là 1
+2025-10-06 04:11:17,150 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-gs-350-2010-6427362
+2025-10-06 04:11:17,912 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-camry-2.5g-2015-6463158
+2025-10-06 04:11:39,343 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-camry-2.5g-2015-6463158 !
+2025-10-06 04:11:39,345 - INFO -      Status là 1
+2025-10-06 04:11:41,377 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-camry-2.5g-2015-6463158
+2025-10-06 04:11:42,019 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-camry-2.5q-2022-6265730
+2025-10-06 04:11:50,055 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-camry-2.5q-2022-6265730 !
+2025-10-06 04:11:50,057 - INFO -      Status là 1
+2025-10-06 04:11:52,094 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-camry-2.5q-2022-6265730
+2025-10-06 04:11:52,739 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-vios-1.5g-2020-6461876
+2025-10-06 04:12:30,163 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-vios-1.5g-2020-6461876 !
+2025-10-06 04:12:30,167 - INFO -      Status là 1
+2025-10-06 04:12:32,200 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-vios-1.5g-2020-6461876
+2025-10-06 04:12:32,845 - INFO - Đang thử truy cập https://bonbanh.com/xe-lamborghini-aventador-lp-700-4-2015-6136971
+2025-10-06 04:13:09,663 - INFO -      Truy cập thành công https://bonbanh.com/xe-lamborghini-aventador-lp-700-4-2015-6136971 !
+2025-10-06 04:13:09,666 - INFO -      Status là 1
+2025-10-06 04:13:11,700 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lamborghini-aventador-lp-700-4-2015-6136971
+2025-10-06 04:13:12,455 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-avanza-premio-1.5-at-2022-6433427
+2025-10-06 04:13:26,012 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-avanza-premio-1.5-at-2022-6433427 !
+2025-10-06 04:13:26,017 - INFO -      Status là 1
+2025-10-06 04:13:28,055 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-avanza-premio-1.5-at-2022-6433427
+2025-10-06 04:13:28,822 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-corolla_cross-1.8g-2023-6276022
+2025-10-06 04:13:36,284 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-corolla_cross-1.8g-2023-6276022 !
+2025-10-06 04:13:36,285 - INFO -      Status là 1
+2025-10-06 04:13:38,320 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-corolla_cross-1.8g-2023-6276022
+2025-10-06 04:13:38,960 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-lux_a_2.0-plus-2.0-at-2019-6272852
+2025-10-06 04:14:02,197 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-lux_a_2.0-plus-2.0-at-2019-6272852 !
+2025-10-06 04:14:02,200 - INFO -      Status là 1
+2025-10-06 04:14:04,235 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-lux_a_2.0-plus-2.0-at-2019-6272852
+2025-10-06 04:14:04,899 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-3-2.0-at-2016-6244649
+2025-10-06 04:14:14,246 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-3-2.0-at-2016-6244649 !
+2025-10-06 04:14:14,248 - INFO -      Status là 1
+2025-10-06 04:14:16,281 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-3-2.0-at-2016-6244649
+2025-10-06 04:14:16,991 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 04:14:16,992 - INFO - ĐANG CẠO LINK ROW 3950 đến 3959
+2025-10-06 04:14:17,613 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-5_series-523i-2010-6375109
+2025-10-06 04:15:00,377 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-5_series-523i-2010-6375109 !
+2025-10-06 04:15:00,382 - INFO -      Status là 1
+2025-10-06 04:15:02,452 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-5_series-523i-2010-6375109
+2025-10-06 04:15:03,398 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-camry-2.0g-2019-6242529
+2025-10-06 04:15:24,219 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-camry-2.0g-2019-6242529 !
+2025-10-06 04:15:24,221 - INFO -      Status là 1
+2025-10-06 04:15:26,260 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-camry-2.0g-2019-6242529
+2025-10-06 04:15:27,028 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-cx5-2.5-signature-premium-awd-i-activ-2019-6453680
+2025-10-06 04:15:40,029 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-cx5-2.5-signature-premium-awd-i-activ-2019-6453680 !
+2025-10-06 04:15:40,032 - INFO -      Status là 1
+2025-10-06 04:15:42,073 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-cx5-2.5-signature-premium-awd-i-activ-2019-6453680
+2025-10-06 04:15:42,872 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-santafe-premium-2.2l-htrac-2019-6426121
+2025-10-06 04:16:04,166 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-santafe-premium-2.2l-htrac-2019-6426121 !
+2025-10-06 04:16:04,174 - INFO -      Status là 1
+2025-10-06 04:16:06,207 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-santafe-premium-2.2l-htrac-2019-6426121
+2025-10-06 04:16:06,853 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2023-6454324
+2025-10-06 04:16:20,730 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2023-6454324 !
+2025-10-06 04:16:20,732 - INFO -      Status là 1
+2025-10-06 04:16:22,768 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-everest-titanium-2.0l-4x2-at-2023-6454324
+2025-10-06 04:16:23,380 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-i10-grand-1.2-mt-base-2017-6425009
+2025-10-06 04:16:45,674 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-i10-grand-1.2-mt-base-2017-6425009 !
+2025-10-06 04:16:45,678 - INFO -      Status là 1
+2025-10-06 04:16:47,720 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-i10-grand-1.2-mt-base-2017-6425009
+2025-10-06 04:16:48,542 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-200-4matic-2022-6272497
+2025-10-06 04:17:05,464 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-200-4matic-2022-6272497 !
+2025-10-06 04:17:05,466 - INFO -      Status là 1
+2025-10-06 04:17:07,506 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-200-4matic-2022-6272497
+2025-10-06 04:17:08,139 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-i30-cw-1.6-at-2009-6396210
+2025-10-06 04:17:14,804 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-i30-cw-1.6-at-2009-6396210 !
+2025-10-06 04:17:14,806 - INFO -      Status là 1
+2025-10-06 04:17:16,842 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-i30-cw-1.6-at-2009-6396210
+2025-10-06 04:17:17,521 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-wildtrak-2.0l-4x4-at-2018-6401163
+2025-10-06 04:17:35,247 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-wildtrak-2.0l-4x4-at-2018-6401163 !
+2025-10-06 04:17:35,249 - INFO -      Status là 1
+2025-10-06 04:17:37,286 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-wildtrak-2.0l-4x4-at-2018-6401163
+2025-10-06 04:17:37,936 - INFO - Đang thử truy cập https://bonbanh.com/xe-lexus-lx-570-2014-6406341
+2025-10-06 04:17:53,571 - INFO -      Truy cập thành công https://bonbanh.com/xe-lexus-lx-570-2014-6406341 !
+2025-10-06 04:17:53,575 - INFO -      Status là 1
+2025-10-06 04:17:55,619 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-lexus-lx-570-2014-6406341
+2025-10-06 04:17:57,207 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 04:17:57,209 - INFO - ĐANG CẠO LINK ROW 3960 đến 3969
+2025-10-06 04:17:58,581 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-e_class-e200-2016-6426537
+2025-10-06 04:18:09,923 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-e_class-e200-2016-6426537 !
+2025-10-06 04:18:09,925 - INFO -      Status là 1
+2025-10-06 04:18:12,020 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-e_class-e200-2016-6426537
+2025-10-06 04:18:13,164 - INFO - Đang thử truy cập https://bonbanh.com/xe-volkswagen-teramont-president-2.0-at-2024-6302113
+2025-10-06 04:18:16,679 - INFO -      Truy cập thành công https://bonbanh.com/xe-volkswagen-teramont-president-2.0-at-2024-6302113 !
+2025-10-06 04:18:16,688 - INFO -      Status là 1
+2025-10-06 04:18:18,728 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-volkswagen-teramont-president-2.0-at-2024-6302113
+2025-10-06 04:18:19,397 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-fortuner-2.4l-4x2-mt-2022-6458416
+2025-10-06 04:18:34,611 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-fortuner-2.4l-4x2-mt-2022-6458416 !
+2025-10-06 04:18:34,613 - INFO -      Status là 1
+2025-10-06 04:18:36,655 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-fortuner-2.4l-4x2-mt-2022-6458416
+2025-10-06 04:18:37,327 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-elantra-sport-1.6-at-2019-6378865
+2025-10-06 04:18:52,813 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-elantra-sport-1.6-at-2019-6378865 !
+2025-10-06 04:18:52,815 - INFO -      Status là 1
+2025-10-06 04:18:54,859 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-elantra-sport-1.6-at-2019-6378865
+2025-10-06 04:18:55,657 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-cerato-1.6-at-deluxe-2021-6460895
+2025-10-06 04:19:15,608 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-cerato-1.6-at-deluxe-2021-6460895 !
+2025-10-06 04:19:15,615 - INFO -      Status là 1
+2025-10-06 04:19:17,654 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-cerato-1.6-at-deluxe-2021-6460895
+2025-10-06 04:19:18,330 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-avante-1.6-at-2012-6307424
+2025-10-06 04:19:24,000 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-avante-1.6-at-2012-6307424 !
+2025-10-06 04:19:24,002 - INFO -      Status là 1
+2025-10-06 04:19:26,041 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-avante-1.6-at-2012-6307424
+2025-10-06 04:19:26,866 - INFO - Đang thử truy cập https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2020-6378510
+2025-10-06 04:19:40,421 - INFO -      Truy cập thành công https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2020-6378510 !
+2025-10-06 04:19:40,427 - INFO -      Status là 1
+2025-10-06 04:19:42,498 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mercedes_benz-glc-300-4matic-2020-6378510
+2025-10-06 04:19:43,655 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-mt-2016-6375385
+2025-10-06 04:19:53,545 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-mt-2016-6375385 !
+2025-10-06 04:19:53,550 - INFO -      Status là 1
+2025-10-06 04:19:55,587 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-xls-2.2l-4x2-mt-2016-6375385
+2025-10-06 04:19:56,323 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-fortuner-2.8v-4x4-at-legender-2021-6427700
+2025-10-06 04:20:22,424 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-fortuner-2.8v-4x4-at-legender-2021-6427700 !
+2025-10-06 04:20:22,427 - INFO -      Status là 1
+2025-10-06 04:20:24,469 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-fortuner-2.8v-4x4-at-legender-2021-6427700
+2025-10-06 04:20:25,315 - INFO - Đang thử truy cập https://bonbanh.com/xe-bmw-x5-xdrive40i-xline-2023-5192178
+2025-10-06 04:20:38,873 - INFO -      Truy cập thành công https://bonbanh.com/xe-bmw-x5-xdrive40i-xline-2023-5192178 !
+2025-10-06 04:20:38,874 - INFO -      Status là 1
+2025-10-06 04:20:40,911 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-bmw-x5-xdrive40i-xline-2023-5192178
+2025-10-06 04:20:41,610 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 04:20:41,611 - INFO - ĐANG CẠO LINK ROW 3970 đến 3979
+2025-10-06 04:20:42,201 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-vf8-eco-awd-2023-6433224
+2025-10-06 04:20:56,403 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-vf8-eco-awd-2023-6433224 !
+2025-10-06 04:20:56,407 - INFO -      Status là 1
+2025-10-06 04:20:58,475 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-vf8-eco-awd-2023-6433224
+2025-10-06 04:20:59,544 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-lux_sa_2.0-tieu-chuan-2022-6443997
+2025-10-06 04:21:06,320 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-lux_sa_2.0-tieu-chuan-2022-6443997 !
+2025-10-06 04:21:06,321 - INFO -      Status là 1
+2025-10-06 04:21:08,354 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-lux_sa_2.0-tieu-chuan-2022-6443997
+2025-10-06 04:21:08,967 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-k3-luxury-1.6-at-2025-6406206
+2025-10-06 04:21:17,078 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-k3-luxury-1.6-at-2025-6406206 !
+2025-10-06 04:21:17,080 - INFO -      Status là 1
+2025-10-06 04:21:19,121 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-k3-luxury-1.6-at-2025-6406206
+2025-10-06 04:21:19,880 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-focus-titanium-1.5l-2018-6338525
+2025-10-06 04:21:24,363 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-focus-titanium-1.5l-2018-6338525 !
+2025-10-06 04:21:24,366 - INFO -      Status là 1
+2025-10-06 04:21:26,401 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-focus-titanium-1.5l-2018-6338525
+2025-10-06 04:21:27,045 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-elantra-1.6-at-2020-6463138
+2025-10-06 04:21:38,248 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-elantra-1.6-at-2020-6463138 !
+2025-10-06 04:21:38,249 - INFO -      Status là 1
+2025-10-06 04:21:40,287 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-elantra-1.6-at-2020-6463138
+2025-10-06 04:21:40,928 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-tucson-1.6-at-turbo-2018-6390603
+2025-10-06 04:21:50,255 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-tucson-1.6-at-turbo-2018-6390603 !
+2025-10-06 04:21:50,259 - INFO -      Status là 1
+2025-10-06 04:21:52,301 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-tucson-1.6-at-turbo-2018-6390603
+2025-10-06 04:21:53,121 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-transit-limousine-10s-2025-6449702
+2025-10-06 04:22:22,782 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-transit-limousine-10s-2025-6449702 !
+2025-10-06 04:22:22,784 - INFO -      Status là 1
+2025-10-06 04:22:24,857 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-transit-limousine-10s-2025-6449702
+2025-10-06 04:22:25,478 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-iq-1.0-at-2012-6424601
+2025-10-06 04:22:30,514 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-iq-1.0-at-2012-6424601 !
+2025-10-06 04:22:30,516 - INFO -      Status là 1
+2025-10-06 04:22:32,561 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-iq-1.0-at-2012-6424601
+2025-10-06 04:22:33,376 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-cerato-1.6-at-luxury-2021-6356178
+2025-10-06 04:22:47,408 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-cerato-1.6-at-luxury-2021-6356178 !
+2025-10-06 04:22:47,409 - INFO -      Status là 1
+2025-10-06 04:22:49,450 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-cerato-1.6-at-luxury-2021-6356178
+2025-10-06 04:22:50,269 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.2l-htrac-2021-6435529
+2025-10-06 04:23:06,442 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.2l-htrac-2021-6435529 !
+2025-10-06 04:23:06,445 - INFO -      Status là 1
+2025-10-06 04:23:08,481 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.2l-htrac-2021-6435529
+2025-10-06 04:23:09,201 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 04:23:09,203 - INFO - ĐANG CẠO LINK ROW 3980 đến 3989
+2025-10-06 04:23:09,824 - INFO - Đang thử truy cập https://bonbanh.com/xe-honda-crv-l-2023-6389473
+2025-10-06 04:23:28,553 - INFO -      Truy cập thành công https://bonbanh.com/xe-honda-crv-l-2023-6389473 !
+2025-10-06 04:23:28,556 - INFO -      Status là 1
+2025-10-06 04:23:30,607 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-honda-crv-l-2023-6389473
+2025-10-06 04:23:31,373 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-lux_a_2.0-premium-2.0-at-2019-6158160
+2025-10-06 04:24:14,115 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-lux_a_2.0-premium-2.0-at-2019-6158160 !
+2025-10-06 04:24:14,117 - INFO -      Status là 1
+2025-10-06 04:24:16,155 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-lux_a_2.0-premium-2.0-at-2019-6158160
+2025-10-06 04:24:16,801 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-everest-titanium-plus-2.0l-4x4-at-2023-6402197
+2025-10-06 04:24:21,746 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-everest-titanium-plus-2.0l-4x4-at-2023-6402197 !
+2025-10-06 04:24:21,751 - INFO -      Status là 1
+2025-10-06 04:24:23,783 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-everest-titanium-plus-2.0l-4x4-at-2023-6402197
+2025-10-06 04:24:24,435 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-innova-cross-hev-2.0-cvt-2024-6391894
+2025-10-06 04:24:46,707 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-innova-cross-hev-2.0-cvt-2024-6391894 !
+2025-10-06 04:24:46,710 - INFO -      Status là 1
+2025-10-06 04:24:48,755 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-innova-cross-hev-2.0-cvt-2024-6391894
+2025-10-06 04:24:49,599 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-palisade-prestige-2.2-at-htrac-2023-6446061
+2025-10-06 04:24:56,879 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-palisade-prestige-2.2-at-htrac-2023-6446061 !
+2025-10-06 04:24:56,880 - INFO -      Status là 1
+2025-10-06 04:24:58,923 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-palisade-prestige-2.2-at-htrac-2023-6446061
+2025-10-06 04:24:59,535 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-raptor-2.0l-4x4-at-2021-6409350
+2025-10-06 04:25:06,401 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-raptor-2.0l-4x4-at-2021-6409350 !
+2025-10-06 04:25:06,406 - INFO -      Status là 1
+2025-10-06 04:25:08,478 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-raptor-2.0l-4x4-at-2021-6409350
+2025-10-06 04:25:09,673 - INFO - Đang thử truy cập https://bonbanh.com/xe-dongfeng-box-e1-330-2025-6348531
+2025-10-06 04:25:52,837 - INFO -      Truy cập thành công https://bonbanh.com/xe-dongfeng-box-e1-330-2025-6348531 !
+2025-10-06 04:25:52,839 - INFO -      Status là 1
+2025-10-06 04:25:54,876 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-dongfeng-box-e1-330-2025-6348531
+2025-10-06 04:25:55,519 - INFO - Đang thử truy cập https://bonbanh.com/xe-toyota-veloz-cross-top-1.5-cvt-2025-6150585
+2025-10-06 04:26:00,614 - INFO -      Truy cập thành công https://bonbanh.com/xe-toyota-veloz-cross-top-1.5-cvt-2025-6150585 !
+2025-10-06 04:26:00,623 - INFO -      Status là 1
+2025-10-06 04:26:02,662 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-toyota-veloz-cross-top-1.5-cvt-2025-6150585
+2025-10-06 04:26:03,306 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-3-1.5l-premium-2019-6463165
+2025-10-06 04:26:07,553 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-3-1.5l-premium-2019-6463165 !
+2025-10-06 04:26:07,556 - INFO -      Status là 1
+2025-10-06 04:26:09,638 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-3-1.5l-premium-2019-6463165
+2025-10-06 04:26:10,772 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.2l-htrac-2022-6352147
+2025-10-06 04:26:30,523 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.2l-htrac-2022-6352147 !
+2025-10-06 04:26:30,525 - INFO -      Status là 1
+2025-10-06 04:26:32,558 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-santafe-cao-cap-2.2l-htrac-2022-6352147
+2025-10-06 04:26:33,286 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
+2025-10-06 04:26:33,287 - INFO - ĐANG CẠO LINK ROW 3990 đến 3999
+2025-10-06 04:26:33,855 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-sportage-premium-2.0g-2024-6401110
+2025-10-06 04:26:42,528 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-sportage-premium-2.0g-2024-6401110 !
+2025-10-06 04:26:42,532 - INFO -      Status là 1
+2025-10-06 04:26:44,615 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-sportage-premium-2.0g-2024-6401110
+2025-10-06 04:26:45,307 - INFO - Đang thử truy cập https://bonbanh.com/xe-ford-ranger-xls-2.0l-4x2-at-2025-6458666
+2025-10-06 04:27:01,570 - INFO -      Truy cập thành công https://bonbanh.com/xe-ford-ranger-xls-2.0l-4x2-at-2025-6458666 !
+2025-10-06 04:27:01,572 - INFO -      Status là 1
+2025-10-06 04:27:03,603 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-ford-ranger-xls-2.0l-4x2-at-2025-6458666
+2025-10-06 04:27:04,208 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-lux_sa_2.0-2.0-at-2021-6321564
+2025-10-06 04:27:09,089 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-lux_sa_2.0-2.0-at-2021-6321564 !
+2025-10-06 04:27:09,091 - INFO -      Status là 1
+2025-10-06 04:27:11,155 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-lux_sa_2.0-2.0-at-2021-6321564
+2025-10-06 04:27:12,582 - INFO - Đang thử truy cập https://bonbanh.com/xe-vinfast-lux_a_2.0-plus-2.0-at-2021-6452946
+2025-10-06 04:27:43,263 - INFO -      Truy cập thành công https://bonbanh.com/xe-vinfast-lux_a_2.0-plus-2.0-at-2021-6452946 !
+2025-10-06 04:27:43,266 - INFO -      Status là 1
+2025-10-06 04:27:45,305 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-vinfast-lux_a_2.0-plus-2.0-at-2021-6452946
+2025-10-06 04:27:46,123 - INFO - Đang thử truy cập https://bonbanh.com/xe-hyundai-accent-1.5-mt-2024-6250459
+2025-10-06 04:27:51,377 - INFO -      Truy cập thành công https://bonbanh.com/xe-hyundai-accent-1.5-mt-2024-6250459 !
+2025-10-06 04:27:51,382 - INFO -      Status là 1
+2025-10-06 04:27:53,419 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-hyundai-accent-1.5-mt-2024-6250459
+2025-10-06 04:27:54,040 - INFO - Đang thử truy cập https://bonbanh.com/xe-mg-5-luxury-1.5-at-2024-6258772
+2025-10-06 04:28:04,006 - INFO -      Truy cập thành công https://bonbanh.com/xe-mg-5-luxury-1.5-at-2024-6258772 !
+2025-10-06 04:28:04,010 - INFO -      Status là 1
+2025-10-06 04:28:06,056 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mg-5-luxury-1.5-at-2024-6258772
+2025-10-06 04:28:06,818 - INFO - Đang thử truy cập https://bonbanh.com/xe-kia-cerato-1.6-at-2018-6361477
+2025-10-06 04:28:24,048 - INFO -      Truy cập thành công https://bonbanh.com/xe-kia-cerato-1.6-at-2018-6361477 !
+2025-10-06 04:28:24,050 - INFO -      Status là 1
+2025-10-06 04:28:26,080 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-kia-cerato-1.6-at-2018-6361477
+2025-10-06 04:28:26,691 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-6-2.5l-premium-2016-6240785
+2025-10-06 04:28:41,950 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-6-2.5l-premium-2016-6240785 !
+2025-10-06 04:28:41,953 - INFO -      Status là 1
+2025-10-06 04:28:43,992 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-6-2.5l-premium-2016-6240785
+2025-10-06 04:28:44,838 - INFO - Đang thử truy cập https://bonbanh.com/xe-mazda-cx5-2.5-at-2wd-2018-6280005
+2025-10-06 04:29:10,883 - INFO -      Truy cập thành công https://bonbanh.com/xe-mazda-cx5-2.5-at-2wd-2018-6280005 !
+2025-10-06 04:29:10,886 - INFO -      Status là 1
+2025-10-06 04:29:12,956 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-mazda-cx5-2.5-at-2wd-2018-6280005
+2025-10-06 04:29:14,298 - INFO - Đang thử truy cập https://bonbanh.com/xe-honda-hrv-l-2018-6372844
+2025-10-06 04:29:39,778 - INFO -      Truy cập thành công https://bonbanh.com/xe-honda-hrv-l-2018-6372844 !
+2025-10-06 04:29:39,780 - INFO -      Status là 1
+2025-10-06 04:29:41,817 - INFO -     Bắt đầu lấy các thông tin của xe https://bonbanh.com/xe-honda-hrv-l-2018-6372844
+2025-10-06 04:29:42,531 - INFO - Đã lưu thêm 10 liên kết vào file: data_bonbanh/raw/info_cars.csv
