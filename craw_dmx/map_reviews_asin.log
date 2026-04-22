@@ -1,0 +1,15 @@
+2026-04-16 00:58:20,745 [INFO] ✅ Đã nạp 667 cặp (Product ID -> ASIN) từ file mapping.
+2026-04-16 00:58:20,746 [INFO] 🚀 Bắt đầu thêm ASIN cho 5 file JSONL...
+2026-04-16 00:58:20,779 [INFO]     - headphone_integrated.jsonl: 2270/2876 reviews được gắn ASIN.
+2026-04-16 00:58:20,783 [INFO]     - laptop_integrated.jsonl: 200/200 reviews được gắn ASIN.
+2026-04-16 00:58:20,785 [INFO]     - pc_integrated.jsonl: 11/11 reviews được gắn ASIN.
+2026-04-16 00:58:20,811 [INFO]     - smartphone_integrated.jsonl: 1757/2283 reviews được gắn ASIN.
+2026-04-16 00:58:20,831 [INFO]     - television_integrated.jsonl: 1558/1933 reviews được gắn ASIN.
+2026-04-16 00:58:20,831 [INFO] 
+=======================================
+2026-04-16 00:58:20,831 [INFO] 🏁 BÁO CÁO KẾT QUẢ GẮN ASIN VÀO REVIEWS:
+2026-04-16 00:58:20,831 [INFO]    - Tổng số Review đã quét: 7303
+2026-04-16 00:58:20,832 [INFO]    - Tổng số Review được gắn ASIN: 5796 (79.36%)
+2026-04-16 00:58:20,832 [INFO]    - Thư mục đầu ra lưu tại: mapped_dmx_reviews_output
+2026-04-16 00:58:20,832 [INFO] =======================================
+
