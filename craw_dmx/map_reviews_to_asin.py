@@ -8,8 +8,8 @@ import pandas as pd
 # ==========================================
 # CẤU HÌNH THƯ MỤC
 # ==========================================
-CSV_MAPPING_FILE = os.path.join('mapped_products', 'product_asin_mapping_ai.csv')
-INPUT_JSONL_DIR = 'dmx_reviews_output_v2'
+CSV_MAPPING_FILE = os.path.join('dmx_links_mapped_asin', 'product_asin_mapping_ai.csv')
+INPUT_JSONL_DIR = 'dmx_reviews'
 OUTPUT_JSONL_DIR = 'mapped_dmx_reviews_output'  # Thư mục mới chứa kết quả
 
 

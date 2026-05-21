@@ -8,9 +8,9 @@ import pandas as pd
 # ==========================================
 # CẤU HÌNH THƯ MỤC
 # ==========================================
-CSV_MAPPING_FILE = os.path.join('mapped_products', 'product_asin_mapping_ai.csv')
+CSV_MAPPING_FILE = os.path.join('tgdd_links_mapped_asin', 'product_asin_mapping_ai.csv')
 INPUT_JSONL_DIR = 'tgdd_reviews'
-OUTPUT_JSONL_DIR = 'mapped_tgdd_output'  # Thư mục mới chứa kết quả
+OUTPUT_JSONL_DIR = 'mapped_tgdd_reviews_output'  # Thư mục mới chứa kết quả
 
 
 def init_logging():

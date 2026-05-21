@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 # ==========================================
 # CẤU HÌNH THƯ MỤC
 # ==========================================
-CSV_MAPPING_FILE = os.path.join('mapped_products', 'product_asin_mapping_ai.csv')
+CSV_MAPPING_FILE = os.path.join('dmx_links_mapped_asin', 'product_asin_mapping_ai.csv')
 INPUT_JSONL_DIR = 'dmx_metadata_output'
 OUTPUT_JSONL_DIR = 'cleaned_mapped_metadata'  # Thư mục xuất file sạch
 

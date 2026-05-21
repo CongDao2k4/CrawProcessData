@@ -157,7 +157,7 @@ def extract_product_cards(driver, base_category_list: list) -> list:
                 continue
 
             # 3. LẤY DỮ LIỆU TỪ ATTRIBUTE CỦA THẺ <a> (Chính xác và sạch nhất)
-            # Thẻ a.main-contain chứa đầy đủ metadata
+            # Thẻ a.main-contain chứa đầy đủ metadata_amazon
             try:
                 link_tag = item.find_element(By.CSS_SELECTOR, "a.main-contain")
             except NoSuchElementException:

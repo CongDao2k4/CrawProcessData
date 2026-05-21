@@ -174,7 +174,7 @@ def extract_reviews_dmx(driver, url, product_id, breadcrumb_str):
 def main():
     init_logging()
     input_dir = 'dmx_links'
-    output_dir = 'dmx_reviews_output_v2'
+    output_dir = 'dmx_reviews'
     os.makedirs(output_dir, exist_ok=True)
 
     driver = get_driver()
